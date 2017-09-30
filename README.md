@@ -2,7 +2,7 @@
 
 [Data Studio Output](https://datastudio.google.com/reporting/0B0t--sHr40JpM0swak1STFBCd0k/page/gMTD)
 
-![Data Studio image](https://github.com/chrisfleisch/whiskey-business/screenshots/whiskey_business_datastudio.png "Data Studio")
+![Data Studio image](https://github.com/chrisfleisch/whiskey-business/blob/master/screenshots/whiskey_business_datastudio.png "Data Studio")
 
 ## Setup Instructions
 
