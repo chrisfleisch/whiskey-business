@@ -1,0 +1,1180 @@
+whisky,meta_critic,stdev,count,cost,class,super_cluster,cluster,country,type,alt_brand
+1792 Full Proof Bourbon,8.95,0.28,4,$$$,Bourbon-like,,,USA,Bourbon,1792 full proof
+1792 Port Finished Bourbon,8.47,0.09,4,$$$,Bourbon-like,,,USA,Bourbon,1792 finish port
+1792 Ridgemont Reserve/Small Batch Bourbon,8.59,0.41,15,$$,Bourbon-like,,,USA,Bourbon,1792 batch reserve/small ridgemont
+1792 Single Barrel Bourbon,8.6,0.39,4,$$$,Bourbon-like,,,USA,Bourbon,1792 barrel single
+1792 Sweet Wheat Bourbon,8.66,0.21,7,$$$$,Bourbon-like,,,USA,Bourbon,1792 sweet wheat
+2 Gingers Irish Whiskey,8.05,0.35,3,$$,Scotch-like,,,Ireland,Blend,2 gingers
+66 Gilead Crimson Rye,8.32,0.45,6,$$,Rye-like,,,Canada,Blend,66 crimson gilead rye
+66 Gilead The Wild Oak,8.04,0.51,6,$$,Bourbon-like,,,Canada,Blend,66 gilead oak the wild
+8 Seconds,7.55,0.44,5,$$,Rye-like,,,Canada,Blend,8 seconds
+Aberfeldy 12yo,8.18,0.32,18,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 aberfeldy
+Aberfeldy 16yo,8.45,0.2,3,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 aberfeldy
+Aberfeldy 18yo,8.66,0.26,6,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 aberfeldy
+Aberfeldy 21yo,8.78,0.2,10,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,21 aberfeldy
+Aberlour 10yo,8.28,0.34,14,$$,SingleMalt-like,ABC,C,Scotland,Malt,10 aberlour
+Aberlour 12yo Double Cask Matured,8.34,0.19,15,$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 aberlour cask double matured
+Aberlour 12yo Non-Chill-Filtered,8.79,0.24,11,$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 aberlour chill filtered non
+Aberlour 16yo Double Cask Matured,8.71,0.18,12,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,16 aberlour cask double matured
+Aberlour 18yo,8.76,0.28,12,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,18 aberlour
+Aberlour A'Bunadh (all batches),8.95,0.16,23,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,a'bunadh aberlour all batches
+Aberlour A'Bunadh (Batch 30),8.96,0.17,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,30 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 32),8.85,0.68,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,32 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 33),9.13,0.12,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,33 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 34),8.88,0.29,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,34 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 35),9.0,0.23,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,35 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 36),9.0,0.48,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,36 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 37),9.1,0.07,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,37 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 38),8.67,0.17,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,38 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 39),9.04,0.22,7,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,39 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 40),9.1,0.15,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,40 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 42),8.78,0.11,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,42 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 45),8.99,0.27,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,45 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 46),8.93,0.07,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,46 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 47),8.92,0.36,7,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,47 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 48),8.79,0.53,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,48 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 49),9.14,0.06,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,49 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 50),8.74,0.34,7,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,50 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 52),8.98,0.17,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,52 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 53),9.06,0.03,3,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,53 a'bunadh aberlour batch
+Aberlour A'Bunadh (Batch 54),8.94,0.17,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,54 a'bunadh aberlour batch
+Alberta Premium,8.22,0.58,11,$,Rye-like,,,Canada,Blend,alberta premium
+Alberta Premium Dark Horse,8.61,0.37,15,$,Rye-like,,,Canada,Blend,alberta dark horse premium
+Alberta Rye Dark Batch,8.7,0.24,7,$$,Rye-like,,,Canada,Blend,alberta batch dark rye
+Alberta Springs 10yo,8.29,0.42,9,$,Rye-like,,,Canada,Blend,10 alberta springs
+Amrut 100 Peated,8.92,0.38,6,$$$$,SingleMalt-like,J,J,India,Malt,100 amrut peated
+Amrut 6yo Virgin Oak Single Cask,9.09,0.23,3,$$$$,SingleMalt-like,EF,E,India,Malt,6 amrut cask oak single virgin
+Amrut Bourbon Single Cask,8.73,0.3,12,$$$$,SingleMalt-like,EF,E,India,Malt,amrut cask single
+Amrut Double Cask,9.07,0.25,3,$$$$,SingleMalt-like,EF,E,India,Malt,amrut cask double
+Amrut Fusion,8.89,0.26,23,$$$$,SingleMalt-like,EF,E,India,Malt,amrut fusion
+Amrut Greedy Angels (8yo and 10yo),9.21,0.2,6,$$$$$+,SingleMalt-like,ABC,C,India,Malt,10 8 amrut and angels greedy
+Amrut Herald,8.91,0.15,6,$$$$,SingleMalt-like,EF,E,India,Malt,amrut herald
+Amrut Indian Single Malt,8.42,0.47,14,$$$,SingleMalt-like,GH,G,India,Malt,amrut indian
+Amrut Intermediate Sherry,8.97,0.4,17,$$$$,SingleMalt-like,ABC,B,India,Malt,amrut intermediate sherry
+Amrut Kadhambam,8.93,0.29,12,$$$$,SingleMalt-like,ABC,C,India,Malt,amrut kadhambam
+Amrut Naarangi,8.46,0.65,8,$$$$$,SingleMalt-like,ABC,C,India,Malt,amrut naarangi
+Amrut Peated Single Malt,8.69,0.33,11,$$$$,SingleMalt-like,J,J,India,Malt,amrut peated
+Amrut Peated Single Malt Cask Strength,9.15,0.19,9,$$$$,SingleMalt-like,J,J,India,Malt,amrut cask peated strength
+Amrut Portonova,8.99,0.29,16,$$$$,SingleMalt-like,ABC,C,India,Malt,amrut portonova
+Amrut Portpipe Peated Single Cask,8.84,0.36,9,$$$$,SingleMalt-like,J,J,India,Malt,amrut cask peated portpipe single
+Amrut PX Sherry Single Cask,8.77,0.47,8,$$$$,SingleMalt-like,ABC,A,India,Malt,amrut cask px sherry single
+Amrut Rye,8.87,0.14,4,$$$$,Rye-like,,,India,Rye,amrut rye
+Amrut Spectrum,9.18,0.26,8,$$$$$,SingleMalt-like,ABC,C,India,Malt,amrut spectrum
+Amrut Two Continents,8.8,0.45,12,$$$$,SingleMalt-like,EF,E,India,Malt,amrut continents two
+Ancient Age 10yo Kentucky Straight Bourbon,8.59,0.39,5,$,Bourbon-like,,,USA,Bourbon,10 age ancient kentucky straight
+Ancient Age Kentucky Straight Bourbon,7.69,0.59,7,$,Bourbon-like,,,USA,Bourbon,age ancient kentucky straight
+AnCnoc 12yo,8.62,0.32,18,$$$,SingleMalt-like,GH,H,Scotland,Malt,12 ancnoc
+AnCnoc 16yo,8.68,0.34,12,$$$$,SingleMalt-like,GH,G,Scotland,Malt,16 ancnoc
+AnCnoc 18yo,8.64,0.37,8,$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 ancnoc
+AnCnoc 1975,8.88,0.55,4,$$$$$+,SingleMalt-like,ABC,B,Scotland,Malt,1975 ancnoc
+AnCnoc 2000,8.62,0.18,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,2000 ancnoc
+AnCnoc 22yo,8.74,0.31,9,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,22 ancnoc
+AnCnoc Cutter,9.0,0.54,7,$$$$,SingleMalt-like,J,J,Scotland,Malt,ancnoc cutter
+AnCnoc Flaughter,8.58,0.33,9,$$$$,SingleMalt-like,J,J,Scotland,Malt,ancnoc flaughter
+AnCnoc Peter Arkle (all releases),8.43,0.28,8,$$$$,SingleMalt-like,GH,G,Scotland,Malt,all ancnoc arkle peter releases
+AnCnoc Rutter,8.97,0.29,6,$$$$,SingleMalt-like,J,J,Scotland,Malt,ancnoc rutter
+Angels Envy Rye Whiskey (Rum-finished),8.76,0.57,8,$$$$,Bourbon-like,,,USA,Bourbon,angels envy finished rum rye
+Angel's Envy Bourbon (Port-finished),8.46,0.44,13,$$$,Bourbon-like,,,USA,Bourbon,angel envy finished port
+Angel's Envy Cask Strength,8.95,0.37,8,$$$$$+,Bourbon-like,,,USA,Bourbon,angel cask envy strength
+Ardbeg 10yo,8.95,0.32,23,$$$,SingleMalt-like,J,J,Scotland,Malt,10 ardbeg
+Ardbeg 17yo,9.04,0.26,7,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,17 ardbeg
+Ardbeg 21yo,9.18,0.24,10,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,21 ardbeg
+Ardbeg Alligator,9.05,0.16,13,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,alligator ardbeg
+Ardbeg Ardbog The Ultimate,9.02,0.44,18,$$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg ardbog the ultimate
+Ardbeg Auriverdes,8.89,0.37,16,$$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg auriverdes
+Ardbeg Corryvreckan,9.09,0.31,20,$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg corryvreckan
+Ardbeg Dark Cove,8.9,0.32,15,$$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg cove dark
+Ardbeg Galileo,8.66,0.49,15,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,ardbeg galileo
+Ardbeg Perpetuum,8.9,0.37,14,$$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg perpetuum
+Ardbeg Supernova 2014,9.05,0.31,14,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,2014 ardbeg supernova
+Ardbeg Supernova 2015,9.0,0.33,7,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,2015 ardbeg supernova
+Ardbeg Uigeadail,9.2,0.4,22,$$$$,SingleMalt-like,J,J,Scotland,Malt,ardbeg uigeadall
+Ardmore Traditional Cask,8.54,0.18,19,$$$,SingleMalt-like,I,I,Scotland,Malt,ardmore cask traditional
+Arran Malt 10yo,8.5,0.3,20,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 arran malt
+Arran Malt 12yo Cask Strength (all editions),8.66,0.39,12,$$$$,SingleMalt-like,GH,H,Scotland,Malt,12 all arran cask editions malt strength
+Arran Malt 14yo,8.68,0.27,19,$$$$,SingleMalt-like,GH,G,Scotland,Malt,14 arran malt
+Arran Malt 17yo,8.84,0.25,10,$$$$,SingleMalt-like,EF,E,Scotland,Malt,17 arran malt
+Arran Malt 18yo,8.93,0.13,13,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 arran malt
+Arran Malt Amarone Cask Finish,8.77,0.35,10,$$$,SingleMalt-like,ABC,B,Scotland,Malt,amarone arran cask finish malt
+Arran Malt Bourbon Single Cask,8.88,0.2,9,$$$$,SingleMalt-like,EF,E,Scotland,Malt,arran cask malt single
+Arran Malt Lochranza Reserve,8.04,0.6,4,$$$,SingleMalt-like,GH,G,Scotland,Malt,arran lochranza malt reserve
+Arran Malt Machrie Moor Cask Strength,8.78,0.08,3,$$$$,SingleMalt-like,I,I,Scotland,Malt,arran cask machrie malt moor strength
+Arran Malt Machrie Moor Peated (all editions),7.88,0.56,12,$$$$,SingleMalt-like,I,I,Scotland,Malt,all arran editions machrie malt moor peated
+Arran Malt Madeira Wine Cask,8.63,0.43,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask madeira malt wine
+Arran Malt Napoleon Cognac Finish,8.7,0.73,5,$$$$,SingleMalt-like,EF,E,Scotland,Malt,arran cognac finish malt napoleon
+Arran Malt Orkney Bere Barley,8.82,0.32,8,$$$$,SingleMalt-like,GH,G,Scotland,Malt,arran barley bere malt orkney
+Arran Malt Port Cask Finish,8.6,0.39,11,$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask finish malt port
+Arran Malt Robert Burns Single Malt,8.2,0.55,7,$$,SingleMalt-like,EF,F,Scotland,Malt,arran burns malt robert
+Arran Malt Sauternes Finish,8.52,0.32,11,$$$,SingleMalt-like,EF,E,Scotland,Malt,arran finish malt sauternes
+Arran Malt Sherry Cask Finish,8.31,0.55,11,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask finish malt sherry
+Arran Malt Sherry Single Cask,8.55,0.54,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask malt sherry single
+Arran Malt The Devils Punch Bowl (all chapters),8.89,0.3,9,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,all arran bowl chapters devils malt punch the
+Arran Malt Tokaji Aszu Wine Finish,8.79,0.36,4,$$$$,SingleMalt-like,EF,F,Scotland,Malt,arran aszu finish malt tokaji wine
+Auchentoshan 10yo,7.76,0.38,10,$$$,SingleMalt-like,GH,H,Scotland,Malt,10 auchentoshan
+Auchentoshan 12yo,8.29,0.26,21,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 auchentoshan
+Auchentoshan 18yo,8.36,0.36,12,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 auchentoshan
+Auchentoshan 21yo,8.82,0.26,12,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,21 auchentoshan
+Auchentoshan American Oak,7.6,0.88,7,$$,SingleMalt-like,GH,H,Scotland,Malt,american auchentosahn oak
+Auchentoshan Classic,7.88,0.5,8,$$,SingleMalt-like,GH,H,Scotland,Malt,auchentoshan classic
+Auchentoshan Three Wood,8.25,0.41,21,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,auchentoshan three wood
+Auchentoshan Valinch,8.22,0.63,11,$$$,SingleMalt-like,GH,H,Scotland,Malt,auchentoshan valinch
+Auchentoshan Virgin Oak,8.23,0.55,7,$$$$,SingleMalt-like,GH,H,Scotland,Malt,auchentoshan oak virgin
+Auchroisk 10yo (F&F),8.08,0.22,4,$$$,SingleMalt-like,EF,E,Scotland,Malt,10 auchroisk ff
+Aultmore 12yo,8.41,0.22,9,$$$$,SingleMalt-like,GH,H,Scotland,Malt,12 aultmore
+Aultmore 18yo,8.51,0.22,4,$$$$$,SingleMalt-like,GH,H,Scotland,Malt,18 aultmore
+Aultmore 25yo,8.92,0.24,3,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 aultmore
+Bain's Cape Mountain Whisky,8.14,0.5,7,$$,Scotch-like,,,South Africa,Grain,bain cape mountain
+Bakers Kentucky Straight Bourbon 7yo,8.79,0.28,19,$$$,Bourbon-like,,,USA,Bourbon,7 bakers kentucky straight
+Balblair 1989,8.53,0.46,11,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,1989 balblair
+Balblair 2000,8.38,0.32,9,$$$$,SingleMalt-like,GH,H,Scotland,Malt,2000 balblair
+Balcones Baby Blue,8.31,0.72,11,$$$$,Bourbon-like,,,USA,Whiskey,baby balcones blue
+Balcones Texas Single Malt Whisky,8.68,0.34,10,$$$$,SingleMalt-like,EF,E,USA,Malt,balcones texas
+Ballantine's 17yo,8.79,0.35,14,$$$$,Scotch-like,,,Scotland,Blend,17 ballantine
+Ballantine's Finest,7.62,0.6,12,$,Scotch-like,,,Scotland,Blend,ballantine finest
+Balvenie 12yo Doublewood,8.41,0.34,21,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,12 balvenie doublewood
+Balvenie 12yo Single Barrel,8.62,0.33,11,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 balvenie barrel single
+Balvenie 12yo Triple Cask,8.39,0.46,8,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,12 balvenie cask triple
+Balvenie 14yo Carribean Cask,8.49,0.35,17,$$$$,SingleMalt-like,EF,F,Scotland,Malt,14 balvenie caribbean cask
+Balvenie 15yo Single Barrel (Cask),8.85,0.24,22,$$$$,SingleMalt-like,GH,G,Scotland,Malt,15 balvenie barrel cask single
+Balvenie 16yo Triple Cask,8.63,0.24,9,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,16 balvenie cask triple
+Balvenie 17yo Doublewood,8.72,0.24,11,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,17 balvenie doublewood
+Balvenie 21yo Port Wood,8.78,0.37,15,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,21 balvenie portwood
+Balvenie 25yo Single Barrel,8.68,0.92,3,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 balvenie barrel single
+Balvenie TUN 1401 (all 8 batches),9.15,0.3,15,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,1401 8 all balvenie batches tun
+Balvenie TUN 1509 (all 3 batches),9.01,0.17,11,$$$$$+,SingleMalt-like,ABC,B,Scotland,Malt,1509 3 all balvenie batches tun
+Bank Note 5yo Blended Scotch,8.28,0.58,4,$,Scotch-like,,,Scotland,Blend,5 bank blended note
+Basil Haydens Kentucky Bourbon,8.37,0.25,15,$$$,Bourbon-like,,,USA,Bourbon,basil hayden
+Bell's Original Scotch Whisky,7.58,0.75,7,$,Scotch-like,,,Scotland,Blend,bell original scotch
+Ben Nevis 10yo,8.18,0.43,11,$$$,SingleMalt-like,ABC,C,Scotland,Malt,10 ben nevis
+BenRiach 10yo,8.54,0.17,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 benriach
+BenRiach 10yo Curiositas,8.61,0.3,18,$$$,SingleMalt-like,I,I,Scotland,Malt,10 benriach curiositas
+BenRiach 12yo,8.43,0.26,14,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 benriach
+BenRiach 12yo Horizons,8.36,0.29,7,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 benriach horizons
+BenRiach 12yo Matured in Sherry Wood,8.68,0.21,12,$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 benriach in matured sherry wood
+BenRiach 15yo Sauternes Finish,8.12,0.5,3,$$$$,SingleMalt-like,EF,F,Scotland,Malt,15 benriach finish sauternes
+BenRiach 15yo Tawny Port Finish,8.43,0.31,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 benriach finish port tawny
+BenRiach 17yo Septendecim Peated,8.53,0.55,17,$$$$,SingleMalt-like,J,J,Scotland,Malt,17 benriach peated septendecim
+BenRiach 17yo Solstice 1st Peated Port Finish,8.88,0.19,3,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,17 1st benriach finish peated port solstice
+BenRiach 17yo Solstice 2nd Peated Port Finish,8.9,0.43,11,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,17 2nd benriach finish peated port solstice
+BenRiach 17yo Solstice Peated Port (both editions),8.93,0.28,11,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,17 benriach both editions peated port solstice
+BenRiach 18yo Albariza Pedro Ximenez Peated,9.11,0.2,5,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 albariza benriach peated pedro ximenez
+BenRiach 18yo Dunder,8.7,0.27,4,$$$$$,SingleMalt-like,J,J,Scotland,Malt,18 benriach dunder
+BenRiach 18yo Latada,8.85,0.21,4,$$$$$,SingleMalt-like,ABC,B,Scotland,Malt,18 benriach latada
+BenRiach 20yo,8.23,0.71,9,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,20 benriach
+BenRiach 21yo Authenticus Peated,8.87,0.35,12,$$$$$,SingleMalt-like,I,I,Scotland,Malt,21 authenticus benriach peated
+BenRiach 25yo,8.8,0.46,13,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 benriach
+BenRiach 25yo Authenticus Peated,8.65,0.57,6,$$$$$,SingleMalt-like,I,I,Scotland,Malt,25 authenticus benriach peated
+BenRiach 35yo,8.96,0.59,5,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,35 benriach
+BenRiach Birnie Moss,8.27,0.36,10,$$$,SingleMalt-like,I,I,Scotland,Malt,benriach birnie moss
+BenRiach Cask Strength,8.86,0.11,4,$$$$,SingleMalt-like,GH,H,Scotland,Malt,benriach cask strength
+BenRiach Heart of Speyside,7.63,0.97,6,$$$,SingleMalt-like,GH,H,Scotland,Malt,benriach heart of speyside
+BenRiach Peated Quarter Casks,8.59,0.3,4,$$$$,SingleMalt-like,I,I,Scotland,Malt,benriach casks peated quarter
+Benrinnes 15yo F&F,8.34,0.81,7,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 benrinnes ff
+Benromach 10yo,8.69,0.27,20,$$$,SingleMalt-like,I,I,Scotland,Malt,10 benromach
+Benromach 10yo Cask Strength (100 proof),9.02,0.15,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,10 100 benromach cask proof strength
+Benromach 15yo,8.66,0.46,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 benromach
+Benromach 5yo,8.8,0.18,4,$$,SingleMalt-like,GH,G,Scotland,Malt,5 benromach
+Benromach Organic,8.5,0.49,13,$$$$,SingleMalt-like,EF,E,Scotland,Malt,benromach organic
+Benromach Peat Smoke,8.44,0.27,13,$$$$,SingleMalt-like,J,J,Scotland,Malt,benromach peat smoke
+Benromach Sassicaia,8.47,0.27,4,$$$$,SingleMalt-like,I,I,Scotland,Malt,benromach sassicaia
+Benromach Traditional,8.4,0.46,11,$$,SingleMalt-like,GH,G,Scotland,Malt,benromach traditional
+Bernheim Original Straight Wheat 7yo Small Batch,8.46,0.54,18,$$,Bourbon-like,,,USA,Wheat,7 batch bernheim original small straight wheat
+Big Peat (Douglas Laing),8.8,0.22,14,$$$$,SingleMalt-like,I,I,Scotland,Malt,big douglas laing peat
+Big Peat Christmas Edition (2012-2016),8.85,0.16,9,$$$$,SingleMalt-like,J,J,Scotland,Malt,2012 2016 big christmas edition peat
+Black Bottle (after 2013 re-launch),7.8,0.41,10,$$,Scotch-like,,,Scotland,Blend,2013 after black bottle launch re
+Black Bottle (pre-2013),8.24,0.51,13,$$,Scotch-like,,,Scotland,Blend,2013 black bottle pre
+Black Velvet 3yo,7.74,0.91,9,$,Rye-like,,,Canada,Blend,3 black velvet
+Black Velvet Deluxe,7.16,0.74,8,$,Rye-like,,,Canada,Blend,black deluxe velvet
+Blair Athol 12yo (F&F),8.39,0.46,7,$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 athol blair ff
+Blanton's Gold Kentucky Straight Bourbon,8.7,0.41,14,$$$$,Bourbon-like,,,USA,Bourbon,blanton gold kentucky straight
+Blanton's Single Barrel Bourbon,8.63,0.31,18,$$$,Bourbon-like,,,USA,Bourbon,barrel blanton single
+Blanton's Special Reserve,8.22,0.28,5,$$$,Bourbon-like,,,USA,Bourbon,blanton reserve special
+Blanton's Straight from the Barrel Bourbon,8.95,0.3,6,$$$$,Bourbon-like,,,USA,Bourbon,barrel blanton from straight the
+Booker's Rye,9.29,0.22,8,$$$$$+,Rye-like,,,USA,Rye,booker rye
+Booker's Small Batch Straight Bourbon,8.87,0.28,16,$$$,Bourbon-like,,,USA,Bourbon,batch booker small straight
+Bowmore 10yo Devil's Cask (all batches),8.82,0.32,16,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,10 all batches bowmore cask devil
+Bowmore 10yo Tempest,8.79,0.2,18,$$$$,SingleMalt-like,I,I,Scotland,Malt,10 bowmore tempest
+Bowmore 12yo,8.39,0.28,18,$$$,SingleMalt-like,I,I,Scotland,Malt,12 bowmore
+Bowmore 12yo Enigma,8.52,0.26,10,$$,SingleMalt-like,ABC,C,Scotland,Malt,12 bowmore enigma
+Bowmore 15yo Darkest,8.59,0.34,19,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 bowmore darkest
+Bowmore 15yo Laimrig,8.99,0.16,14,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 bowmore laimrig
+Bowmore 15yo Mariner,8.64,0.45,7,$$$$$,SingleMalt-like,I,I,Scotland,Malt,15 bowmore mariner
+Bowmore 17yo,8.34,0.65,7,$$$$$,SingleMalt-like,I,I,Scotland,Malt,17 bowmore
+Bowmore 17yo White Sands,8.47,0.56,5,$$$$,SingleMalt-like,I,I,Scotland,Malt,17 bowmore sands white
+Bowmore 18yo,8.55,0.48,16,$$$$,SingleMalt-like,I,I,Scotland,Malt,18 bowmore
+Bowmore 25yo,8.84,0.51,9,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25 bowmore
+Bowmore Black Rock,8.16,0.27,5,$$,SingleMalt-like,ABC,C,Scotland,Malt,black bowmore rock
+Bowmore Gold Reef,8.32,0.4,5,$$,SingleMalt-like,I,I,Scotland,Malt,bowmore gold reef
+Bowmore Legend,7.67,0.57,10,$$,SingleMalt-like,I,I,Scotland,Malt,bowmore legend
+Bowmore Mizunara Cask Finish,8.88,0.44,3,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,bowmore cask finish mizunara
+Bowmore Small Batch,8.26,0.55,11,$$$,SingleMalt-like,I,I,Scotland,Malt,batch bowmore small
+Bowmore Springtide,9.06,0.76,4,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,bowmore springtide
+Bowmore Vault Edition First Release,8.63,0.27,3,$$$$$,SingleMalt-like,I,I,Scotland,Malt,bowmore edition first release vault
+Box The 2nd Step Collection 02,8.92,0.05,3,$$$$,SingleMalt-like,EF,E,Sweden,Malt,02 2nd box collection step the
+Box The Festival 2014,8.94,0.13,3,$$$$$,SingleMalt-like,J,J,Sweden,Malt,2014 box festival the
+Brora 21yo,8.87,0.41,4,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,21 brora
+Brora 30yo,9.3,0.22,17,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,30 brora
+Brora 35yo,9.43,0.34,10,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,35 brora
+Bruichladdich 21yo Cuve 382 La Berenice,8.57,0.61,5,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,21 382 berenice bruichladdich cuve la
+Bruichladdich 21yo Cuve 407 PX,8.97,0.2,3,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,21 407 bruichladdich cuve px
+Bruichladdich 21yo Cuve 640 Eroica,8.72,0.41,8,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,21 640 bruichladdich cuve eroica
+Bruichladdich Black Art 1989,8.24,0.39,4,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,1989 art black bruichladdich
+Bruichladdich Black Art 2.x 1989,9.06,0.19,7,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,1989 2.x art black bruichladdich
+Bruichladdich Black Art 3.x 1989,9.07,0.42,10,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,1989 3.x art black bruichladdich
+Bruichladdich Black Art 4.x 1990,8.54,0.6,10,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,1990 4.x art black bruichladdich
+Bruichladdich Classic Laddie Scottish Barley,8.39,0.44,8,$$$,SingleMalt-like,GH,G,Scotland,Malt,barley bruichladdich classic laddie scottish
+Bruichladdich Infinity Third Edition,8.77,0.27,5,$$$$$,SingleMalt-like,I,I,Scotland,Malt,bruichladdich edition infinity third
+Bruichladdich Islay Barley (all vintages),8.57,0.23,12,$$$$,SingleMalt-like,I,I,Scotland,Malt,all barley bruichladdich islay vintages
+Bruichladdich Laddie Classic (Edition 01),8.42,0.56,6,$$$,SingleMalt-like,GH,G,Scotland,Malt,01 bruichladdich classic edition laddie
+Bruichladdich Laddie Sixteen,8.75,0.22,12,$$$$,SingleMalt-like,GH,G,Scotland,Malt,bruichladdich laddie sixteen
+Bruichladdich Laddie Ten,8.82,0.3,16,$$$,SingleMalt-like,GH,G,Scotland,Malt,bruichladdich laddie ten
+Bruichladdich Laddie Ten (Second Edition),8.89,0.27,7,$$$,SingleMalt-like,GH,G,Scotland,Malt,bruichladdich edition laddie second ten
+Bruichladdich Laddie Twenty Two,8.85,0.25,10,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,bruichladdich laddie twenty two
+Bruichladdich Octomore 10,8.88,0.41,5,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,10 bruichladdich octomore
+Bruichladdich Octomore 10 (Second Edition),9.15,0.2,4,$$$$$,SingleMalt-like,J,J,Scotland,Malt,10 bruichladdich edition octomore second
+Bruichladdich Octomore 6.1,8.73,0.26,13,$$$$$,SingleMalt-like,J,J,Scotland,Malt,6.1 bruichladdich octomore
+Bruichladdich Octomore 6.2,9.1,0.26,8,$$$$$,SingleMalt-like,J,J,Scotland,Malt,6.2 bruichladdich octomore
+Bruichladdich Octomore 6.3,8.75,0.62,8,$$$$$,SingleMalt-like,J,J,Scotland,Malt,6.3 bruichladdich octomore
+Bruichladdich Octomore 7.1,8.98,0.28,10,$$$$$,SingleMalt-like,J,J,Scotland,Malt,7.1 bruichladdich octomore
+Bruichladdich Octomore 7.2,8.96,0.33,6,$$$$$,SingleMalt-like,J,J,Scotland,Malt,7.2 bruichladdich octomore
+Bruichladdich Octomore 7.3,9.01,0.42,6,$$$$$,SingleMalt-like,J,J,Scotland,Malt,7.3 bruichladdich octomore
+Bruichladdich Octomore 7.4,8.56,0.69,7,$$$$$,SingleMalt-like,J,J,Scotland,Malt,7.4 bruichladdich octomore
+Bruichladdich Rocks,8.36,0.29,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,bruichladdich rocks
+Bruichladdich Sherry Classic,8.25,0.85,6,$$$$,SingleMalt-like,EF,E,Scotland,Malt,bruichladdich classic sherry
+Buffalo Trace Bourbon,8.58,0.41,19,$$,Bourbon-like,,,USA,Bourbon,buffalo trace
+"Buffalo Trace Experimental Collection 12yo floor #5 (rye, 2014)",9.06,0.23,5,$$$$$,Bourbon-like,,,USA,Bourbon,"#5 12 2014 buffalo collection experimental floor rye, trace"
+Bulleit 10yo,8.53,0.39,13,$$$,Bourbon-like,,,USA,Bourbon,10 bulleit
+Bulleit Bourbon,8.38,0.37,21,$$,Bourbon-like,,,USA,Bourbon,bulleit
+Bulleit Rye,8.29,0.64,16,$$,Rye-like,,,USA,Rye,bulleit rye
+Bunnahabhain 12yo,8.58,0.3,17,$$$,SingleMalt-like,EF,F,Scotland,Malt,12 bunnahabhain
+Bunnahabhain 18yo,9.03,0.19,14,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 bunnahabhain
+Bunnahabhain 25yo,8.84,0.36,15,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,25 bunnahabhain
+Bunnahabhain 40yo,9.16,0.34,6,$$$$$+,SingleMalt-like,EF,F,Scotland,Malt,40 bunnahabhain
+Bunnahabhain Cebanach,8.81,0.28,11,$$$$,SingleMalt-like,J,J,Scotland,Malt,bunnahabhain cebanach
+Bunnahabhain Darach Ur,8.39,0.32,10,$$$,SingleMalt-like,EF,F,Scotland,Malt,bunnahabhain darach ur
+Bunnahabhain Eirigh Na Greine,8.28,0.46,6,$$$$,SingleMalt-like,EF,F,Scotland,Malt,bunnahabhain eirigh greine na
+Bunnahabhain Toiteach,8.59,0.38,14,$$$$,SingleMalt-like,J,J,Scotland,Malt,bunnahabhain toiteach
+Bushmills 10yo Single Malt,8.19,0.3,18,$$$,SingleMalt-like,GH,G,Ireland,Malt,10 bushmills
+Bushmills 16yo Single Malt,8.48,0.48,16,$$$$,SingleMalt-like,ABC,B,Ireland,Malt,16 bushmills
+Bushmills 21yo Single Malt,8.93,0.34,11,$$$$$,SingleMalt-like,ABC,C,Ireland,Malt,21 bushmills
+Bushmills Black Bush,8.35,0.4,20,$$,SingleMalt-like,ABC,C,Ireland,Blend,black bush bushmills
+Bushmills Original Blended,7.65,0.47,15,$$,Scotch-like,,,Ireland,Blend,blended bushmills original
+Bushmills Sherry Cask Reserve,8.16,0.4,3,$$$$,SingleMalt-like,ABC,C,Ireland,Malt,bushmills cask reserve sherry
+Canada Gold,8.1,0.66,5,$,Rye-like,,,Canada,Blend,canada gold
+Canadian Club (Premium),7.32,0.79,16,$,Rye-like,,,Canada,Blend,canadian club premium
+Canadian Club 100% Rye,8.33,0.42,14,$,Rye-like,,,Canada,Rye,100% canadian club rye
+Canadian Club 20yo,8.63,0.31,10,$$$,Rye-like,,,Canada,Blend,20 canadian club
+Canadian Club 30yo,9.02,0.19,6,$$$$$,Rye-like,,,Canada,Blend,30 canadian club
+Canadian Club Classic 12yo (Small Batch),8.18,0.42,13,$,Rye-like,,,Canada,Blend,12 batch canadian classic club small
+Canadian Club Reserve 10yo,8.38,0.61,9,$$,Rye-like,,,Canada,Blend,10 canadian club reserve
+Canadian Club Reserve 9yo,8.03,0.45,5,$,Rye-like,,,Canada,Blend,9 canadian club reserve
+Canadian Club Sherry Cask,8.22,0.6,8,$$,Rye-like,,,Canada,Blend,canadian cask club sherry
+Canadian Mist,7.63,0.63,11,$,Rye-like,,,Canada,Blend,canadian mist
+Canadian Mist Black Diamond,8.08,0.51,6,$,Rye-like,,,Canada,Blend,black canadian diamond mist
+Canadian Rockies 21yo,8.99,0.29,7,$$$,Rye-like,,,Canada,Blend,21 canadian rockies
+Caol Ila 12yo,8.72,0.18,19,$$$$,SingleMalt-like,I,I,Scotland,Malt,12 caol ila
+Caol Ila 15yo Unpeated,8.54,0.4,8,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,15 caol ila unpeated
+Caol Ila 17yo unpeated,8.6,0.53,6,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,17 caol ila unpeated
+Caol Ila 18yo,8.67,0.5,14,$$$$$,SingleMalt-like,I,I,Scotland,Malt,18 caol ila
+Caol Ila 25yo,8.84,0.25,6,$$$$$,SingleMalt-like,I,I,Scotland,Malt,25 caol ila
+Caol Ila 30yo,9.33,0.24,9,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,30 caol ila
+Caol Ila Distiller's Edition (all editions),8.66,0.39,12,$$$$,SingleMalt-like,J,J,Scotland,Malt,all caol distiller edition editions ila
+Cardhu 12yo,8.11,0.44,19,$$$,SingleMalt-like,GH,H,Scotland,Malt,12 cardhu
+Cardhu Amber Rock,8.29,0.27,4,$$$,SingleMalt-like,GH,H,Scotland,Malt,amber cardhu rock
+Caribou Crossing Single Barrel,8.61,0.42,10,$$$$,Rye-like,,,Canada,Blend,barrel caribou crossing single
+Catto's Rare Old,8.11,0.75,5,$,Scotch-like,,,Scotland,Blend,catto old rare
+Centennial 10yo,8.36,0.4,6,$,Rye-like,,,Canada,Blend,10 centennial
+Century Reserve 21yo,8.73,0.2,10,$$,Rye-like,,,Canada,Blend,21 century reserve
+Century Reserve Lot 15/25,8.35,0.87,5,$,Rye-like,,,Canada,Blend,15/25 century lot reserve
+Chivas Regal 12yo,7.79,0.43,21,$$,Scotch-like,,,Scotland,Blend,12 chivas regal
+Chivas Regal 18yo,8.23,0.53,14,$$$$,Scotch-like,,,Scotland,Blend,18 chivas regal
+Chivas Regal 25yo,8.71,0.21,7,$$$$$+,Scotch-like,,,Scotland,Blend,25 chivas regal
+Chivas Royal Salute 21yo,8.57,0.63,7,$$$$$,Scotch-like,,,Scotland,Blend,21 chivas royal salute
+Clynelish 14yo,8.81,0.25,15,$$$$,SingleMalt-like,EF,F,Scotland,Malt,14 clynelish
+Collingwood,8.03,0.32,8,$$,Rye-like,,,Canada,Blend,collingwood
+Collingwood 21yo,8.54,0.42,11,$$$,Rye-like,,,Canada,Blend,21 collingwood
+Colonel E.H. Taylor Straight Rye,8.72,0.32,6,$$$$,Rye-like,,,USA,Rye,colonel e.h. rye straight taylor
+Colonel EH Taylor Barrel Proof,8.86,0.21,6,$$$$,Bourbon-like,,,USA,Bourbon,barrel colonel eh proof taylor
+Colonel EH Taylor Single Barrel,8.95,0.31,6,$$$$,Bourbon-like,,,USA,Bourbon,barrel colonel eh single taylor
+Colonel EH Taylor Small Batch (BiB),8.61,0.3,11,$$$$,Bourbon-like,,,USA,Bourbon,batch bib colonel eh small taylor
+Compass Box 3yo Deluxe,9.02,0.23,6,$$$$$+,SingleMalt-like,EF,F,Scotland,Malt,3 box compass deluxe
+Compass Box Asyla,8.23,0.49,12,$$$,Scotch-like,,,Scotland,Blend,asyla box compass
+Compass Box Eleuthera,8.56,0.39,12,$$$$,SingleMalt-like,I,I,Scotland,Malt,box compass eleuthera
+Compass Box Enlightenment,8.86,0.19,4,$$$$,SingleMalt-like,GH,G,Scotland,Malt,box compass enlightenment
+Compass Box Flaming Heart,8.94,0.36,19,$$$$$,SingleMalt-like,I,I,Scotland,Malt,box compass flaming heart
+Compass Box Great King St Artist's Blend,8.59,0.37,18,$$,Scotch-like,,,Scotland,Blend,artist blend box compass great king st
+Compass Box Great King St Glasgow Blend,8.57,0.24,11,$$$,Scotch-like,,,Scotland,Blend,blend box compass glasgow great king st
+Compass Box Hedonism,8.54,0.47,17,$$$$,Scotch-like,,,Scotland,Blend,box compass hedonism
+Compass Box Hedonism Quindecimus,8.91,0.41,7,$$$$$,Scotch-like,,,Scotland,Blend,box compass hedonism quindecimus
+Compass Box Oak Cross,8.69,0.34,13,$$$,SingleMalt-like,EF,F,Scotland,Malt,box compass cross oak
+Compass Box Orangerie,7.89,0.82,7,$$,Scotch-like,,,Scotland,Blend,box compass orangerie
+Compass Box Peat Monster,8.66,0.32,18,$$$,SingleMalt-like,J,J,Scotland,Malt,box compass monster peat
+Compass Box Spice Tree,8.81,0.32,19,$$$$,SingleMalt-like,EF,F,Scotland,Malt,box compass spice tree
+Compass Box Spice Tree Extravaganza,8.83,0.28,7,$$$$$,SingleMalt-like,EF,F,Scotland,Malt,box compass extravaganza spice tree
+Compass Box The Circus,8.94,0.29,4,$$$$$,Scotch-like,,,Scotland,Blend,box circus compass the
+Compass Box The General,9.19,0.28,10,$$$$$+,Scotch-like,,,Scotland,Blend,box compass general the
+Compass Box The Lost Blend,8.96,0.24,12,$$$$$,SingleMalt-like,I,I,Scotland,Malt,blend box compass lost the
+Compass Box This is Not a Luxury Whisky,8.77,0.46,11,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,a box compass is luxury not this
+Connemara Peated Single Malt,8.2,0.34,15,$$$,SingleMalt-like,I,I,Ireland,Malt,connemara peated
+Connemara Turf Mor,8.75,0.45,11,$$$$,SingleMalt-like,J,J,Ireland,Malt,connemara mor turf
+Copperworks American Single Malt,8.6,0.24,4,$$$,SingleMalt-like,EF,E,USA,Malt,american copperworks
+Corner Creek Reserve Bourbon Whiskey,8.6,0.38,7,$$,Bourbon-like,,,USA,Bourbon,corner creek reserve
+Coyote Ugly,8.1,0.49,5,$,Rye-like,,,Canada,Blend,cote ugly
+Cragganmore 12yo,8.32,0.34,15,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 cragganmore
+Cragganmore 25yo,9.04,0.05,4,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 cragganmore
+Cragganmore NAS (Special Release 2016),9.05,0.32,4,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,2016 cragganmore release special
+Craigellachie 13yo,8.41,0.4,12,$$$,SingleMalt-like,GH,G,Scotland,Malt,13 craigellachie
+Craigellachie 14yo,8.37,0.28,6,$$$$$+,SingleMalt-like,EF,F,Scotland,Malt,14 craigellachie
+Craigellachie 17yo,8.55,0.25,7,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,17 craigellachie
+Crown Royal,7.57,0.52,17,$,Rye-like,,,Canada,Blend,crown royal
+Crown Royal Black,8.2,0.5,16,$$,Rye-like,,,Canada,Blend,black crown royal
+Crown Royal Cornerstone Blend,8.37,0.79,4,$$$,Rye-like,,,Canada,Blend,blend cornerstone crown royal
+Crown Royal Hand Selected Barrel,8.82,0.27,8,$$$,Rye-like,,,Canada,Blend,barrel crown hand royal selected
+Crown Royal Limited Edition,8.29,0.19,10,$$,Rye-like,,,Canada,Blend,crown edition limited royal
+Crown Royal Monarch 75th Anniversary,8.76,0.5,9,$$$,Rye-like,,,Canada,Blend,75th anniversary crown monarch royal
+Crown Royal Northern Harvest Rye,8.58,0.35,16,$$,Rye-like,,,Canada,Blend,crown harvest northern royal rye
+Crown Royal Reserve,8.52,0.68,13,$$$,Rye-like,,,Canada,Blend,crown reserve royal
+Crown Royal XO,8.72,0.31,5,$$$,Rye-like,,,Canada,Blend,crown royal xo
+Cutty Sark,7.52,0.44,14,$,Scotch-like,,,Scotland,Blend,cutty sark
+Cutty Sark Prohibition,8.52,0.48,11,$$,Scotch-like,,,Scotland,Blend,cutty prohibition sark
+Cutty Sark Storm,8.03,0.51,8,$,Scotch-like,,,Scotland,Blend,cutty sark storm
+Dalmore 12yo,8.44,0.25,17,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 dalmore
+Dalmore 15yo,8.33,0.5,17,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 dalmore
+Dalmore 18yo,8.52,0.4,12,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 dalmore
+Dalmore Cigar Malt,8.48,0.41,6,$$$,SingleMalt-like,ABC,C,Scotland,Malt,cigar dalmore malt
+Dalmore Cigar Malt Reserve,8.33,0.63,12,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,cigar dalmore malt reserve
+Dalmore Gran Reserva,8.06,0.39,9,$$$,SingleMalt-like,ABC,C,Scotland,Malt,dalmore gran reserva
+Dalmore King Alexander III,8.33,0.31,9,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,alexander dalmore iii king
+Dalmore Valour,8.11,0.34,8,$$$$,SingleMalt-like,EF,E,Scotland,Malt,dalmore valour
+Dalwhinnie 15yo,8.69,0.34,18,$$$$,SingleMalt-like,GH,H,Scotland,Malt,15 dalwhinnie
+Dalwhinnie Distillers Edition,8.58,0.34,6,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,dalwhinnie distiller edition
+Danfield's 21yo,8.6,0.55,12,$$,Rye-like,,,Canada,Blend,21 danfield
+Deanston 12yo,8.12,0.44,14,$$$,SingleMalt-like,EF,F,Scotland,Malt,12 deanston
+Deanston 18yo (Bourbon Finish),8.41,0.42,5,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 deanston finish
+Deanston Virgin Oak,8.18,0.45,13,$$,SingleMalt-like,GH,H,Scotland,Malt,deanston oak virgin
+Deveron 12yo,8.36,0.29,6,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 deveron
+Deveron 18yo,8.55,0.62,3,$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 deveron
+Dewar's 12yo,7.92,0.28,12,$$,Scotch-like,,,Scotland,Blend,12 dewar
+Dewar's White Label,7.49,0.74,13,$$,Scotch-like,,,Scotland,Blend,dewar white
+Dufftown Singleton of Dufftown 12yo,8.01,0.54,9,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 dufftown dufftown of singleton
+Eagle Rare 10yo,8.55,0.32,20,$$,Bourbon-like,,,USA,Bourbon,10 eagle rare
+Eagle Rare 17yo,8.83,0.34,12,$$$$$+,Bourbon-like,,,USA,Bourbon,17 eagle rare
+Edradour 10yo,8.14,0.74,13,$$$,SingleMalt-like,EF,E,Scotland,Malt,10 edradour
+"Elements of Islay ""Peat""",8.91,0.18,5,$$$,SingleMalt-like,I,I,Scotland,Malt,"""peat"" elements islay of"
+Elijah Craig 12yo,8.67,0.28,21,$$,Bourbon-like,,,USA,Bourbon,12 craig elijah
+Elijah Craig 18yo,8.72,0.46,11,$$$$$,Bourbon-like,,,USA,Bourbon,18 craig elijah
+Elijah Craig 21yo,9.2,0.16,5,$$$$$+,Bourbon-like,,,USA,Bourbon,21 craig elijah
+Elijah Craig Barrel Proof,8.86,0.2,9,$$$$,Bourbon-like,,,USA,Bourbon,barrel craig elijah proof
+Ellington Reserve 8yo,6.91,1.03,4,$,Rye-like,,,Canada,Blend,8 ellington reserve
+Elmer T. Lee Single Barrel Bourbon,8.72,0.4,12,$$$,Bourbon-like,,,USA,Bourbon,barrel elmer lee single t.
+Evan Williams (Black Label),8.18,0.4,14,$,Bourbon-like,,,USA,Bourbon,black evan williams
+Evan Williams 1783 Small Batch,8.18,0.39,4,$,Bourbon-like,,,USA,Bourbon,1783 batch evan small williams
+Evan Williams Bottled in Bond (White label),8.32,0.53,9,$,Bourbon-like,,,USA,Bourbon,bond bottled evan in white williams
+Evan Williams Single Barrel,8.71,0.24,15,$$,Bourbon-like,,,USA,Bourbon,barrel evan single williams
+Famous Grouse,7.63,0.58,17,$,Scotch-like,,,Scotland,Blend,famous grouse
+Famous Grouse Gold Reserve 12yo,8.46,0.33,9,$$,Scotch-like,,,Scotland,Blend,12 famous gold grouse reserve
+Famous Grouse Smoky Black (Black Grouse),7.98,0.46,19,$$,Scotch-like,,,Scotland,Blend,black black famous grouse grouse smoky
+Famous Jubilee,8.15,0.13,3,$$,Scotch-like,,,Scotland,Blend,famous jubilee
+Fettercairn Fior,8.58,0.38,3,$$$,SingleMalt-like,I,I,Scotland,Malt,fettercairn fior
+FEW Bourbon,8.64,0.19,7,$$$,Bourbon-like,,,USA,Bourbon,few
+FEW Rye Whisky,8.63,0.54,7,$$$$,Rye-like,,,USA,Rye,few rye
+FEW Single Malt,8.45,0.53,6,$$$$,SingleMalt-like,GH,G,USA,Malt,few
+Finlaggan Old Reserve,8.45,0.5,14,$$,SingleMalt-like,J,J,Scotland,Malt,finlaggan old reserve
+Forty Creek Barrel Select,8.46,0.42,16,$,Rye-like,,,Canada,Blend,barrel creek forty select
+Forty Creek Confederation Oak (All Batches),8.77,0.42,18,$$$,Rye-like,,,Canada,Blend,all batches confederation creek forty oak
+"Forty Creek Confederation Oak (Batch A, B)",8.82,0.43,16,$$$,Rye-like,,,Canada,Blend,"a, b batch confederation creek forty oak"
+"Forty Creek Confederation Oak (Batch C, D)",9.0,0.32,3,$$$,Rye-like,,,Canada,Blend,"batch c, confederation creek d forty oak"
+"Forty Creek Confederation Oak (Batch E, F)",8.54,0.34,4,$$$,Rye-like,,,Canada,Blend,"batch confederation creek e, f forty oak"
+Forty Creek Copper Pot Reserve,8.71,0.37,13,$,Rye-like,,,Canada,Blend,copper creek forty pot reserve
+Forty Creek Double Barrel Reserve,8.71,0.39,12,$$$,Rye-like,,,Canada,Blend,barrel creek double forty reserve
+Forty Creek Evolution,8.83,0.62,7,$$$,Rye-like,,,Canada,Blend,creek evolution forty
+Forty Creek Founder's Reserve,8.73,0.12,3,$$$,Rye-like,,,Canada,Blend,creek forty founder reserve
+Forty Creek Heart of Gold,8.8,0.43,8,$$$$,Rye-like,,,Canada,Blend,creek forty gold heart of
+Forty Creek Port Wood Reserve 2011/2012,8.8,0.27,9,$$$$,Rye-like,,,Canada,Blend,2011/2012 creek forty port reserve wood
+Forty Creek Three Grain Harmony,8.23,0.53,6,$$$,Rye-like,,,Canada,Blend,creek forty grain harmony three
+Four Roses (Yellow Label),8.21,0.34,11,$,Bourbon-like,,,USA,Bourbon,four roses yellow
+Four Roses Single Barrel Bourbon,8.7,0.32,18,$$$,Bourbon-like,,,USA,Bourbon,four roses
+Four Roses Small Batch Bourbon,8.48,0.42,13,$$,Bourbon-like,,,USA,Bourbon,batch four roses small
+Four Roses Small Batch Limited Edition,9.1,0.2,13,$$$$$+,Bourbon-like,,,USA,Bourbon,batch edition four limited roses small
+George Dickel No.12,8.26,0.45,15,$$,Bourbon-like,,,USA,Bourbon,12 dickel george
+George Dickel Rye,8.53,0.35,12,$$,Rye-like,,,USA,Rye,dickel george rye
+George T Stagg,9.18,0.3,19,$$$$$+,Bourbon-like,,,USA,Bourbon,george stagg t
+Gibson's Bold 8yo,8.35,0.29,3,$,Rye-like,,,Canada,Blend,8 bold gibson
+Gibson's Finest 12yo,8.05,0.69,10,$,Rye-like,,,Canada,Blend,12 finest gibson
+Gibson's Finest Rare 18yo,9.03,0.35,10,$$$$,Rye-like,,,Canada,Blend,18 finest gibson rare
+Gibson's Finest Sterling,8.02,0.38,8,$,Rye-like,,,Canada,Blend,finest gibson sterling
+Glen Breton 14yo,8.08,0.62,6,$$$$,SingleMalt-like,GH,G,Canada,Malt,14 breton glen
+Glen Breton 21yo,8.3,0.44,3,$$$$$,SingleMalt-like,EF,E,Canada,Malt,21 breton glen
+Glen Breton Battle of the Glen 15yo,8.53,0.27,7,$$$$$,SingleMalt-like,GH,G,Canada,Malt,15 battle breton glen glen of the
+Glen Breton Ice 10yo,8.19,0.62,7,$$$$,SingleMalt-like,GH,G,Canada,Malt,10 breton glen ice
+Glen Breton Ice 17yo,8.81,0.12,3,$$$$$,SingleMalt-like,GH,G,Canada,Malt,17 breton glen ice
+Glen Breton Rare 10yo,8.03,0.45,13,$$$$,SingleMalt-like,GH,G,Canada,Malt,10 breton glen rare
+Glen Deveron 10yo (Macduff),7.97,0.38,5,$$,SingleMalt-like,EF,E,Scotland,Malt,10 deveron glen macduff
+Glen Elgin 12yo,8.42,0.21,13,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 elgin glen
+Glen Garioch 12yo,8.65,0.31,14,$$$$,SingleMalt-like,EF,F,Scotland,Malt,12 garioch glen
+Glen Garioch 1991,8.95,0.15,3,$$$$,SingleMalt-like,I,I,Scotland,Malt,1991 garioch glen
+Glen Garioch 1994,9.03,0.35,7,$$$$,SingleMalt-like,I,I,Scotland,Malt,1994 garioch glen
+Glen Garioch 1995,8.95,0.32,9,$$$$,SingleMalt-like,I,I,Scotland,Malt,1995 garioch glen
+Glen Garioch 1997,8.54,0.15,6,$$$$,SingleMalt-like,I,I,Scotland,Malt,1997 garioch glen
+Glen Garioch 1999 Sherry Cask Matured,8.39,0.96,7,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,1999 cask garioch glen matured sherry
+Glen Garioch Founder's Reserve,8.35,0.37,16,$$$,SingleMalt-like,GH,G,Scotland,Malt,founder garioch glen reserve
+Glen Garioch Virgin Oak,8.11,0.5,6,$$$$,SingleMalt-like,EF,E,Scotland,Malt,garioch glen oak virgin
+Glen Grant 10yo,8.29,0.49,8,$$,SingleMalt-like,GH,H,Scotland,Malt,10 glen grant
+Glen Grant 12yo,8.34,0.66,5,$$$,SingleMalt-like,GH,H,Scotland,Malt,12 glen grant
+Glen Grant 16yo,8.51,0.31,7,$$$$,SingleMalt-like,EF,E,Scotland,Malt,16 glen grant
+Glen Grant 18yo,8.34,0.89,4,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 glen grant
+Glen Grant 25yo,8.9,0.18,3,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,25 glen grant
+Glen Grant Five Decades,8.78,0.23,6,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,five glen grant
+Glen Grant The Major's Reserve,7.91,0.66,9,$$,SingleMalt-like,GH,H,Scotland,Malt,glen grant major reserve the
+Glen Moray 10yo Chardonnay Cask,8.16,0.57,9,$$,SingleMalt-like,EF,F,Scotland,Malt,10 cask chardonnay glen moray
+Glen Moray 12yo,8.02,0.29,12,$$,SingleMalt-like,GH,G,Scotland,Malt,12 glen moray
+Glen Moray 12yo Chenin Blanc,7.88,0.74,6,$$,SingleMalt-like,EF,F,Scotland,Malt,12 blanc chenin glen moray
+Glen Moray 16yo,8.23,0.55,6,$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 glen moray
+Glen Moray 16yo Chenin Blanc,7.6,0.53,4,$$$,SingleMalt-like,EF,F,Scotland,Malt,16 blanc chenin glen moray
+Glen Moray Classic,7.97,0.23,5,$,SingleMalt-like,GH,G,Scotland,Malt,classic glen moray
+Glen Moray Classic Sherry Cask finish,8.5,0.28,3,$$,SingleMalt-like,ABC,B,Scotland,Malt,cask classic finish glen moray sherry
+Glen Ord Singleton of Glen Ord 12yo,8.29,0.27,5,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 glen glen of ord ord singleton
+Glen Scotia 12yo,8.31,0.52,9,$$$$,SingleMalt-like,I,I,Scotland,Malt,12 glen scotia
+Glen Spey 12yo (F&F),8.02,0.43,5,$$$,SingleMalt-like,GH,H,Scotland,Malt,12 ff glen spey
+Glenburgie 10yo (Gordon & MacPhail),7.96,0.45,7,$$$,SingleMalt-like,EF,F,Scotland,Malt,10 glenburgie gordon macphail
+Glencadam 10yo,8.44,0.43,12,$$$,SingleMalt-like,GH,H,Scotland,Malt,10 glencadam
+Glencadam 12yo Port Wood Finish,8.36,0.29,6,$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 finish glencadam port wood
+Glencadam 14yo Oloroso Sherry Cask Finish,8.67,0.51,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,14 cask finish glencadam oloroso sherry
+Glencadam 15yo,8.45,0.41,10,$$$$,SingleMalt-like,GH,H,Scotland,Malt,15 glencadam
+Glencadam 21yo,8.85,0.25,12,$$$$$,SingleMalt-like,GH,H,Scotland,Malt,21 glencadam
+Glencadam 25yo,9.11,0.05,3,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 glencadam
+Glencadam 30yo,8.82,0.2,3,$$$$$+,SingleMalt-like,GH,H,Scotland,Malt,30 glencadam
+Glendalough 13yo Single Malt,8.44,0.26,7,$$$$,SingleMalt-like,GH,G,Ireland,Malt,13 glendalough
+Glendalough 7yo Single Malt,8.16,0.31,5,$$$,SingleMalt-like,GH,G,Ireland,Malt,7 glendalough
+Glendalough Double Barrel,8.29,0.4,5,$$,Scotch-like,,,Ireland,Grain,barrel double glendalough
+GlenDronach 12yo Original,8.59,0.21,20,$$$,SingleMalt-like,ABC,A,Scotland,Malt,12 glendronach
+GlenDronach 12yo Sauternes Cask Finish,8.84,0.13,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,12 cask finish glendronach sauternes
+GlenDronach 14yo Sauternes Cask Finish,8.39,0.39,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,14 cask finish glendronach sauternes
+GlenDronach 14yo Virgin Oak,8.52,0.32,10,$$$$,SingleMalt-like,GH,G,Scotland,Malt,14 glendronach oak virgin
+GlenDronach 15yo Revival,8.91,0.28,19,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,15 glendronach revival
+GlenDronach 15yo Tawny Port Finish,8.38,0.38,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,15 finish glendronach port tawny
+GlenDronach 18yo Allardice,8.71,0.38,16,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,18 allardice glendronach
+GlenDronach 18yo Marsala Finish,8.7,0.11,3,$$$$$,SingleMalt-like,ABC,B,Scotland,Malt,18 finish glendronach marsala
+GlenDronach 18yo Tawny Port Finish,8.58,0.4,4,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,18 finish glendronach port tawny
+GlenDronach 19yo Madeira Finish,9.04,0.34,3,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,19 finish glendronach madeira
+GlenDronach 21yo Parliament,8.7,0.37,14,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,21 glendronach parliament
+GlenDronach 8yo The Hielan,8.41,0.37,9,$$$,SingleMalt-like,EF,E,Scotland,Malt,8 glendronach hielan the
+GlenDronach Cask Strength (batch 1),9.06,0.27,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,1 batch cask glendronach strength
+GlenDronach Cask Strength (batch 2),9.04,0.1,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,2 batch cask glendronach strength
+GlenDronach Cask Strength (batch 3),8.89,0.39,5,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,3 batch cask glendronach strength
+GlenDronach Cask Strength (batch 4),8.92,0.29,10,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,4 batch cask glendronach strength
+GlenDronach Cask Strength (batch 5),8.82,0.17,8,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,5 batch cask glendronach strength
+GlenDronach Peated,8.5,0.32,9,$$$,SingleMalt-like,I,I,Scotland,Malt,glendronach peated
+GlenDronach vintage 19yo Single Cask (all vintages),8.96,0.36,13,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,19 all cask glendronach single vintage vintages
+GlenDronach vintage 20yo Single Cask (all vintages),9.04,0.39,12,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,20 all cask glendronach single vintage vintages
+Glendullan Singleton of Glendullan 12yo,8.05,0.42,13,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 glendullan glendullan of singleton
+Glenfarclas 105,8.73,0.36,22,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,105 glenfarclas
+Glenfarclas 10yo,8.32,0.31,14,$$$,SingleMalt-like,ABC,B,Scotland,Malt,10 glenfarclas
+Glenfarclas 12yo,8.57,0.34,19,$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 glenfarclas
+Glenfarclas 15yo,8.7,0.24,16,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,15 glenfarclas
+Glenfarclas 17yo,8.76,0.27,17,$$$$$,SingleMalt-like,ABC,B,Scotland,Malt,17 glenfarclas
+Glenfarclas 21yo,8.59,0.32,12,$$$$$,SingleMalt-like,ABC,B,Scotland,Malt,21 glenfarclas
+Glenfarclas 25yo,8.73,0.28,12,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,25 glenfarclas
+Glenfarclas 40yo,9.26,0.29,12,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,40 glenfarclas
+Glenfiddich 12yo,8.1,0.24,23,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 glenfiddich
+Glenfiddich 14yo Bourbon Barrel Reserve,8.44,0.16,6,$$$$,SingleMalt-like,EF,E,Scotland,Malt,14 barrel glenfiddich reserve
+Glenfiddich 14yo Rich Oak,8.59,0.33,9,$$$,SingleMalt-like,EF,E,Scotland,Malt,14 glenfiddich oak rich
+Glenfiddich 15yo Distillers Edition,8.71,0.31,12,$$$$,SingleMalt-like,EF,E,Scotland,Malt,15 distillers edition glenfiddich
+Glenfiddich 15yo Solera,8.59,0.25,23,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,15 glenfiddich solera
+Glenfiddich 18yo,8.57,0.38,17,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 glenfiddich
+Glenfiddich 1963 Original Malt,8.34,0.42,5,$$$$,SingleMalt-like,GH,G,Scotland,Malt,1963 glenfiddich malt original
+Glenfiddich 19yo Age of Discovery (Bourbon Cask),8.75,0.28,8,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,19 age cask discovery glenfiddich of
+Glenfiddich 19yo Age of Discovery (Madeira Cask),8.42,0.48,12,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,19 age cask discovery glenfiddich madeira of
+Glenfiddich 21yo Gran Reserva,8.66,0.33,13,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,21 glenfiddich gran reserva
+Glenfiddich 26yo Excellence,8.72,0.46,6,$$$$$+,SingleMalt-like,GH,G,Scotland,Malt,26 excellence glenfiddich
+Glenfiddich Cask of Dreams,8.75,0.23,7,$$$$$,SingleMalt-like,EF,F,Scotland,Malt,cask dreams glenfiddich of
+Glenfiddich Malt Master's Edition,8.3,0.29,7,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,edition glenfiddich malt master
+Glenglassaugh 26yo,8.53,0.54,5,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,26 glenglassaugh
+Glengoyne 10yo,8.24,0.31,12,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 glengoyne
+Glengoyne 12yo,8.53,0.38,10,$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 glengoyne
+Glengoyne 12yo Cask Strength,8.58,0.4,10,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 cask glengoyne strength
+Glengoyne 15yo,8.48,0.54,9,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,15 glengoyne
+Glengoyne 17yo,8.45,0.2,11,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,17 glengoyne
+Glengoyne 18yo,8.6,0.38,13,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 glengoyne
+Glengoyne 21yo,8.87,0.2,14,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,21 glengoyne
+Glengoyne 25yo,9.15,0.27,9,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,25 glengoyne
+Glengoyne 40yo,8.94,0.81,3,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,40 glengoyne
+Glengoyne Cask Strength (all batches),8.6,0.5,10,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,all batches cask glengoyne strength
+Glengoyne Cask Strength (batch 1),8.74,0.47,4,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,1 batch cask glengoyne strength
+Glengoyne Cask Strength (batch 2),8.69,0.4,3,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,2 batch cask glengoyne strength
+Glengoyne Cask Strength (batch 3),8.49,0.81,5,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,3 batch cask glengoyne strength
+Glengoyne Cask Strength (batch 4),8.53,0.14,3,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,4 batch cask glengoyne strength
+Glengoyne Teapot Dram (all batches),8.84,0.44,6,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,all batches dram glengoyne teapot
+Glenkinchie 12yo,8.27,0.16,14,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 glenkinchie
+Glenkinchie Distiller's Edition (all editions),8.41,0.26,13,$$$$,SingleMalt-like,GH,B,Scotland,Malt,distiller edition glenkinchie
+Glenlivet 12yo,8.06,0.3,20,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 glenlivet
+Glenlivet 15yo French Oak,8.38,0.25,17,$$$$,SingleMalt-like,EF,F,Scotland,Malt,15 french glenlivet oak
+Glenlivet 18yo,8.61,0.22,20,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 glenlivet
+Glenlivet 21yo Archive (all batches),8.82,0.31,12,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,21 all archive batches glenlivet
+Glenlivet Alpha,8.96,0.11,4,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,alpha glenlivet
+Glenlivet Cipher,8.66,0.37,5,$$$$,SingleMalt-like,EF,E,Scotland,Malt,cipher glenlivet
+Glenlivet Founder's Reserve,7.93,0.46,12,$$,SingleMalt-like,EF,E,Scotland,Malt,founders glenlivet reserve
+Glenlivet Nadurra 16yo,8.87,0.2,21,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,glenlivet nadurra
+Glenlivet Nadurra First Fill (White Oak),9.06,0.28,3,$$$$,SingleMalt-like,EF,E,Scotland,Malt,fill first glenlivet nadurra oak white
+Glenlivet Nadurra Oloroso,8.32,0.73,10,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,glenlivet nadurra oloroso
+Glenlivet XXV 25yo,8.9,0.17,10,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25 glenlivet xxv
+Glenlossie 10yo (F&F),8.17,0.29,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 ff glenlossie
+Glenmorangie 10yo,8.49,0.45,23,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 glenmorangie
+Glenmorangie 18yo,8.69,0.32,14,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 glenmorangie
+Glenmorangie A Midwinter Nights Dram,8.62,0.35,3,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,a dram glenmorangie midwinter nights
+Glenmorangie Companta,8.84,0.57,12,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,companta glenmorangie
+Glenmorangie Dornoch,8.54,0.65,8,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,dornoch glenmorangie
+Glenmorangie Duthac,8.57,0.27,7,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,duthac glenmorangie
+Glenmorangie Ealanta,8.89,0.29,14,$$$$$+,SingleMalt-like,EF,F,Scotland,Malt,ealanta glenmorangie
+Glenmorangie Lasanta,8.4,0.36,19,$$$,SingleMalt-like,ABC,A,Scotland,Malt,glenmorangie lasanta
+Glenmorangie Milsean,8.49,0.39,9,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,glenmorangie milsean
+Glenmorangie Nectar d'Or,8.76,0.28,20,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,d'or glenmorangie nectar
+Glenmorangie Quinta Ruban,8.57,0.48,21,$$$,SingleMalt-like,ABC,B,Scotland,Malt,glenmorangie quinta ruban
+Glenmorangie Signet,8.98,0.4,18,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,glenmorangie signet
+Glenmorangie Taghta,8.7,0.32,9,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,glenmorangie taghta
+Glenmorangie Tusail,8.82,0.35,11,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,glenmorangie tusail
+Glenrothes Alba Reserve,8.39,0.15,8,$$$,SingleMalt-like,GH,G,Scotland,Malt,alba glenrothes reserve
+Glenrothes Bourbon Cask Reserve,8.16,0.17,3,$$$,SingleMalt-like,GH,G,Scotland,Malt,cask glenrothes reserve
+Glenrothes Elders' Reserve,8.26,0.73,7,$$$$,SingleMalt-like,EF,E,Scotland,Malt,elders' glenrothes reserve
+Glenrothes Minister's Reserve,8.73,0.17,4,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,glenrothes minister reserve
+Glenrothes Peated Cask Reserve,8.11,0.54,3,$$$,SingleMalt-like,I,I,Scotland,Malt,cask glenrothes peated reserve
+Glenrothes Robur Reserve,8.21,0.41,6,$$,SingleMalt-like,ABC,B,Scotland,Malt,glenrothes reserve robur
+Glenrothes Select Reserve,7.84,0.34,13,$$$,SingleMalt-like,EF,E,Scotland,Malt,glenrothes reserve select
+Glenrothes Sherry Cask Reserve,8.13,0.72,9,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,cask glenrothes reserve sherry
+Glenrothes Vintage 1995 (all bottlings),8.62,0.26,14,$$$$,SingleMalt-like,EF,E,Scotland,Malt,1995 all bottlings glenrothes vintage
+Glenrothes Vintage 1998 (2014),8.33,0.62,10,$$$$,SingleMalt-like,EF,F,Scotland,Malt,1998 2014 glenrothes vintage
+Glenrothes Vintage 2001 (all bottlings),8.19,0.62,9,$$$$,SingleMalt-like,EF,E,Scotland,Malt,2001 all bottlings glenrothes vintage
+Glenrothes Vintage Reserve (NAS),8.6,0.16,5,$$$,SingleMalt-like,EF,E,Scotland,Malt,glenrothes reserve vintage
+Glentauchers 1991 18yo (Gordon & MacPhail),8.43,0.25,3,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,18 1991 glentauchers gordon macphail
+Glenturret 10yo,8.1,0.51,11,$$,SingleMalt-like,GH,G,Scotland,Malt,10 glenturret
+Gooderham & Worts Four Grain,8.69,0.26,10,$$,Rye-like,,,Canada,Blend,four gooderham grain worts
+Gouden Carolus Single Malt,8.04,0.23,3,$$$$,SingleMalt-like,EF,E,Belgium,Malt,carolus gouden
+Grant's Blended Sherry Cask,7.95,0.19,5,$,Scotch-like,,,Scotland,Blend,blended cask grant sherry
+Grant's Family Reserve Blended,7.64,0.66,13,$,Scotch-like,,,Scotland,Blend,blended family grant reserve
+Green Spot,8.49,0.38,16,$$$$,SingleMalt-like,EF,F,Ireland,Malt,green spot
+Green Spot Chteau Loville Barton,8.82,0.35,7,$$$$,SingleMalt-like,ABC,C,Ireland,Blend,barton chteau green loville spot
+Hakushu 10yo,8.76,0.26,4,$$$,SingleMalt-like,GH,H,Japan,Malt,10 hakushu
+Hakushu 12yo,8.72,0.21,18,$$$$,SingleMalt-like,GH,H,Japan,Malt,12 hakushu
+Hakushu 18yo,8.73,0.32,8,$$$$$,SingleMalt-like,EF,F,Japan,Malt,18 hakushu
+Hakushu NAS,8.29,0.4,5,$$$,SingleMalt-like,GH,H,Japan,Malt,hakushu
+Hakushu Sherry Cask,8.98,0.43,7,$$$$$+,SingleMalt-like,ABC,B,Japan,Malt,cask hakushu sherry
+Hakushu Single Malt Heavily Peated,8.79,0.33,12,$$$$$+,SingleMalt-like,I,I,Japan,Malt,hakushu heavily peated
+Hazelburn 12yo (Springbank),8.64,0.24,15,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 hazelburn springbank
+Hazelburn 8yo (Springbank),8.37,0.39,11,$$$$,SingleMalt-like,GH,G,Scotland,Malt,8 hazelburn springbank
+Heaven Hill 6yo BiB,8.46,0.03,4,$,Bourbon-like,,,USA,Bourbon,6 bib heaven hill
+Heaven Hill Old Syle Bourbon (white label),7.86,0.45,5,$,Bourbon-like,,,USA,Bourbon,heaven hill old syle white
+Heaven Hill Trybox Series New Make,8.2,0.28,3,$,Bourbon-like,,,USA,Bourbon,heaven hill make new series trybox
+Henry McKenna 10yo Single Barrel BiB,8.82,0.21,9,$$,Bourbon-like,,,USA,Bourbon,10 barrel bib henry mckenna single
+Henry McKenna Straight Bourbon,8.08,0.06,3,$,Bourbon-like,,,USA,Bourbon,henry mckenna straight
+Hibiki 12yo,8.63,0.25,19,$$$$,SingleMalt-like,GH,G,Japan,Blend,12 hibiki
+Hibiki 17yo,8.72,0.32,14,$$$$$,SingleMalt-like,EF,E,Japan,Blend,17 hibiki
+Hibiki 21yo,9.11,0.25,8,$$$$$+,SingleMalt-like,EF,E,Japan,Blend,21 hibiki
+Hibiki Harmony,8.38,0.6,15,$$$$,SingleMalt-like,GH,G,Japan,Blend,harmony hibiki
+High West American Prairie,8.23,0.83,5,$$$,Bourbon-like,,,USA,Bourbon,american high prairie west
+High West Bourye,8.87,0.23,7,$$$$,Rye-like,,,USA,Blend,bourye high west
+High West Campfire,8.78,0.35,11,$$$$,Scotch-like,,,USA,Blend,campfire high west
+High West Double Rye,8.7,0.29,13,$$,Rye-like,,,USA,Rye,double high rye west
+High West Double Rye Campfire Barrel,8.5,0.28,4,$$$,Rye-like,,,USA,Rye,barrel campfire double high rye west
+High West Midwinter Nights Dram Rye,9.11,0.19,11,$$$$$,Rye-like,,,USA,Rye,dram high midwinter nights rye west
+High West Rendezvous Rye,8.91,0.31,14,$$$$,Rye-like,,,USA,Rye,high rendezvous rye west
+High West Rocky Mountain Rye 16yo,9.18,0.34,4,$$$$$,Rye-like,,,USA,Rye,16 high mountain rocky rye west
+High West Rocky Mountain Rye 21yo,9.14,0.24,7,$$$$$+,Rye-like,,,USA,Rye,21 high mountain rocky rye west
+High West Son of Bourye,8.42,0.42,10,$$$,Rye-like,,,USA,Blend,bourye high of son west
+High West Yippee Ki-Yay,8.66,0.31,6,$$$$,Rye-like,,,USA,Rye,high ki west yay yippee
+Highland Park 10yo,8.49,0.28,14,$$$,SingleMalt-like,I,I,Scotland,Malt,10 highland park
+Highland Park 12yo (all reviews),8.67,0.21,23,$$$,SingleMalt-like,I,I,Scotland,Malt,12 all highland park reviews
+Highland Park 12yo (reviews post-mid 2014),8.43,0.35,13,$$$,SingleMalt-like,I,I,Scotland,Malt,12 2014 highland mid park post reviews
+Highland Park 12yo (reviews pre-mid 2014),8.79,0.25,18,$$$,SingleMalt-like,I,I,Scotland,Malt,12 2014 highland mid park pre reviews
+Highland Park 15yo,8.71,0.26,11,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 highland park
+Highland Park 15yo Fire,8.8,0.4,7,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,15 fire highland park
+Highland Park 15yo Freya,8.72,0.4,12,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,15 freya highland park
+Highland Park 15yo Loki,9.04,0.23,15,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,15 highland loki park
+Highland Park 16yo Odin,9.09,0.26,7,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,16 highland odin park
+Highland Park 16yo Thor,8.9,0.33,12,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,16 highland park thor
+Highland Park 17yo Ice,8.69,0.28,8,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,17 highland ice park
+Highland Park 18yo,9.08,0.22,23,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 highland park
+Highland Park 21yo,8.9,0.4,16,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,21 highland park
+Highland Park 25yo,9.17,0.24,13,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25 highland park
+Highland Park 30yo,9.15,0.41,12,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,30 highland park
+Highland Park 40yo,9.16,0.43,10,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,40 highland park
+Highland Park Dark Origins,8.47,0.46,19,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,dark highland origins park
+Highland Park Einar,8.28,0.38,7,$$$,SingleMalt-like,I,I,Scotland,Malt,einar highland park
+Highland Park Harald,8.29,0.41,12,$$$$,SingleMalt-like,GH,G,Scotland,Malt,harald highland park
+Highland Park Sigurd,9.04,0.29,7,$$$$$,SingleMalt-like,I,I,Scotland,Malt,highland park sigurd
+Highland Park Svein,8.24,0.31,10,$$$,SingleMalt-like,GH,G,Scotland,Malt,highland park svein
+Highwood Ninety 5yo,8.15,0.7,6,$,Rye-like,,,Canada,Blend,5 highwood ninety
+Highwood Ninety Rye 20yo,8.8,0.33,10,$$,Rye-like,,,Canada,Blend,20 highwood ninety rye
+Hiram Walker Special Old Rye,8.2,0.36,9,$,Rye-like,,,Canada,Blend,hiram old rye special walker
+Ichiro's Malt Chichibu The First,8.49,0.37,12,$$$$$+,SingleMalt-like,GH,G,Japan,Malt,chichibu first ichiro malt the
+Ichiro's Malt Chichibu The Floor Malted,8.58,0.27,4,$$$$$+,SingleMalt-like,GH,G,Japan,Malt,chichibu floor ichiro malt malted the
+Ichiro's Malt Chichibu The Peated,8.81,0.33,7,$$$$$+,SingleMalt-like,J,J,Japan,Malt,chichibu ichiro malt peated the
+Ichiro's Malt Double Distilleries,8.67,0.27,6,$$$$$,SingleMalt-like,EF,E,Japan,Malt,distilleries double ichiro malt
+Ichiro's Malt Mizunara Wood Reserve (MWR),8.23,0.54,7,$$$$$,SingleMalt-like,GH,H,Japan,Malt,ichiro malt mizunara mwr reserve wood
+Ichiro's Malt The Joker,9.25,0.2,4,$$$$$+,SingleMalt-like,EF,F,Japan,Malt,ichiro joker malt the
+Ileach Peated Islay,8.37,0.27,7,$$,SingleMalt-like,J,J,Scotland,Malt,ileach islay peated
+Ileach Peated Islay Cask Strength,8.82,0.35,9,$$$,SingleMalt-like,J,J,Scotland,Malt,cask ileach islay peated strength
+Inchgower 14yo (F&F),8.67,0.46,7,$$$$,SingleMalt-like,GH,H,Scotland,Malt,14 ff inchgower
+Islay Mist 8yo,7.92,0.45,9,$,Scotch-like,,,Scotland,Blend,8 islay mist
+J&B Rare,7.1,0.99,10,$,Scotch-like,,,Scotland,Blend,jb rare
+J.P. Wisers 18yo,8.66,0.4,14,$$$,Rye-like,,,Canada,Blend,18 j.p. wisers
+J.P. Wisers Red Letter,8.86,0.36,11,$$$$,Rye-like,,,Canada,Blend,j.p. letter red wisers
+J.P. Wisers Rye,7.99,0.45,8,$,Rye-like,,,Canada,Blend,j.p. rye wisers
+J.P. Wiser's Deluxe,7.9,0.68,10,$,Rye-like,,,Canada,Blend,deluxe j.p. wiser
+J.P. Wiser's Double Still Rye,8.35,0.36,8,$,Rye-like,,,Canada,Blend,double j.p. rye still wiser
+J.P. Wiser's Hopped,8.06,0.53,5,$,Rye-like,,,Canada,Blend,hopped j.p. wiser
+J.P. Wiser's Last Barrels,8.8,0.27,7,$$$,Bourbon-like,,,Canada,Blend,barrels j.p. last wiser
+J.P. Wiser's Legacy,9.02,0.35,15,$$,Rye-like,,,Canada,Blend,j.p. legacy wiser
+J.P. Wiser's Small Batch,8.53,0.26,11,$,Rye-like,,,Canada,Blend,batch j.p. small wiser
+J.P. Wiser's Special Blend,7.3,0.85,4,$,Rye-like,,,Canada,Blend,blend j.p. special wiser
+J.P. Wiser's Union 52,8.7,0.31,5,$$$,Rye-like,,,Canada,Blend,52 j.p. union wiser
+Jack Daniel's 150th Anniversary,8.91,0.32,3,$$$,Bourbon-like,,,USA,Bourbon,150th anniversary daniel jack
+Jack Daniel's Gentleman Jack,7.91,0.37,12,$$,Bourbon-like,,,USA,Bourbon,daniel gentleman jack jack
+Jack Daniel's Master Distiller (all series),8.6,0.23,4,$$,Bourbon-like,,,USA,Bourbon,daniel distiller jack master
+Jack Daniel's No. 27 Gold Double Barrelled,8.02,0.11,3,$$$$,Bourbon-like,,,USA,Bourbon,27 barrelled daniel double gold jack
+Jack Daniel's Old No. 7,8.03,0.39,13,$$,Bourbon-like,,,USA,Bourbon,7 daniel jack old
+Jack Daniel's Rested Tennessee Rye (Batch 1/2),8.33,0.47,4,$$$,Rye-like,,,USA,Rye,1/2 batch daniel jack rested rye
+Jack Daniel's Single Barrel,8.46,0.42,14,$$$,Bourbon-like,,,USA,Bourbon,barrel daniel jack single
+Jack Daniel's Single Barrel Rye,8.68,0.23,4,$$$,Rye-like,,,USA,Rye,barrel daniel jack rye single
+Jameson 12yo Special Reserve,8.36,0.25,9,$$$$,Scotch-like,,,Ireland,Blend,12 jameson reserve special
+Jameson 18yo Limited Reserve,8.62,0.24,9,$$$$$,Scotch-like,,,Ireland,Blend,18 jameson limited reserve
+Jameson Blender's Dog Irish Whiskey,8.72,0.3,3,$$$$,Scotch-like,,,Ireland,Blend,blender dog jameson
+Jameson Bold Irish Whiskey,8.38,0.39,3,$$$$,Scotch-like,,,Ireland,Blend,bold jameson
+Jameson Caskmates Stout Edition,8.27,0.48,8,$$,Scotch-like,,,Ireland,Blend,caskmates edition jameson stout
+Jameson Cooper's Croze Irish Whiskey,8.61,0.34,4,$$$$,Scotch-like,,,Ireland,Blend,cooper croze
+Jameson Distiller's Safe Irish Whiskey,8.45,0.64,3,$$$$,Scotch-like,,,Ireland,Blend,distiller jameson safe
+Jameson Gold Reserve,8.46,0.39,10,$$$$,Scotch-like,,,Ireland,Blend,gold jameson reserve
+Jameson Irish Whiskey,7.82,0.51,19,$$,Scotch-like,,,Ireland,Blend,jameson
+Jameson Lively Irish Whiskey,7.91,0.37,3,$$$$,Scotch-like,,,Ireland,Blend,jameson lively
+Jameson Select Reserve (Black Barrel),8.37,0.37,17,$$,Scotch-like,,,Ireland,Blend,barrel black jameson reserve select
+Jameson Signature Reserve,8.38,0.31,5,$$,Scotch-like,,,Ireland,Blend,jameson reserve signature
+Jefferson's 18yo Presidential Select,8.85,0.45,8,$$$$$+,Bourbon-like,,,USA,Bourbon,18 jefferson presidential select
+Jefferson's Ocean,8.53,0.19,6,$$,Bourbon-like,,,USA,Bourbon,jefferson ocean
+Jefferson's Ocean Aged at Sea,8.64,0.39,3,$$$$,Bourbon-like,,,USA,Bourbon,aged at jefferson ocean sea
+Jefferson's Reserve Very Old Kentucky Straight Bourbon,8.51,0.38,7,$$$,Bourbon-like,,,USA,Bourbon,jefferson kentucky old reserve straight very
+Jefferson's Straight Rye 10yo,8.61,0.37,7,$$$,Rye-like,,,USA,Rye,10 jefferson rye straight
+Jefferson's Very Small Batch Bourbon,7.92,0.71,8,$$,Bourbon-like,,,USA,Bourbon,batch jefferson small very
+Jim Beam 12yo Signature Craft,8.6,0.28,9,$$,Bourbon-like,,,USA,Bourbon,12 beam jim signature
+Jim Beam Black Label,8.21,0.42,15,$,Bourbon-like,,,USA,Bourbon,beam black jim
+Jim Beam Bonded,8.59,0.35,8,$$,Bourbon-like,,,USA,Bourbon,beam bonded jim
+Jim Beam Devil's Cut,8.06,0.51,16,$,Bourbon-like,,,USA,Bourbon,beam cut devil jim
+Jim Beam Distillers Masterpiece PX Sherry Cask Finish,8.39,0.36,4,$$$$$,Bourbon-like,,,USA,Bourbon,beam cask distillers finish jim masterpiece px sherry
+Jim Beam Distillers Series,7.66,1.58,4,$$,Bourbon-like,,,USA,Bourbon,beam distillers jim series
+Jim Beam Double Oak,8.17,0.46,6,$$,Bourbon-like,,,USA,Bourbon,beam double jim oak
+Jim Beam Pre-Prohibition Rye,8.47,0.37,6,$,Rye-like,,,USA,Rye,beam jim pre prohibition rye
+Jim Beam Red Stag (Black Cherry),7.45,0.97,4,$,Bourbon-like,,,USA,Flavoured,beam black cherry jim red stag
+Jim Beam Rye,7.93,0.62,9,$,Rye-like,,,USA,Rye,beam jim rye
+Jim Beam Single Barrel,8.65,0.21,4,$$,Bourbon-like,,,USA,Bourbon,barrel beam jim single
+Jim Beam White Label,7.66,0.48,17,$,Bourbon-like,,,USA,Bourbon,beam jim white
+Johnnie Walker Black Label,8.27,0.47,22,$$,Scotch-like,,,Scotland,Blend,black johnnie walker
+Johnnie Walker Blue Label,8.53,0.38,14,$$$$$,Scotch-like,,,Scotland,Blend,blue johnnie walker
+Johnnie Walker Double Black,8.42,0.45,14,$$,Scotch-like,,,Scotland,Blend,black double johnnie walker
+Johnnie Walker Explorers Club The Adventurer,7.91,0.08,3,$$,Scotch-like,,,Scotland,Blend,adventurer club explorers johnnie the walker
+Johnnie Walker Explorers Club The Gold Route,8.49,0.33,8,$$$$,Scotch-like,,,Scotland,Blend,club explorers gold johnnie route the walker
+Johnnie Walker Explorers Club The Royal Route,8.33,0.44,7,$$$$$,Scotch-like,,,Scotland,Blend,club explorers johnnie route royal the walker
+Johnnie Walker Explorers Club The Spice Road,8.37,0.56,9,$$,Scotch-like,,,Scotland,Blend,club explorers johnnie road spice the walker
+Johnnie Walker Gold Label Reserve,8.29,0.33,16,$$$$,Scotch-like,,,Scotland,Blend,gold johnnie reserve walker
+Johnnie Walker Green Label,8.54,0.4,17,$$$$,Scotch-like,,,Scotland,Blend,green johnnie walker
+Johnnie Walker Platinum Label,8.48,0.41,15,$$$$,Scotch-like,,,Scotland,Blend,johnnie platinum walker
+Johnnie Walker Red Label,7.39,0.62,18,$,Scotch-like,,,Scotland,Blend,johnnie red walker
+Johnnie Walker Rye Cask Finish,8.38,0.55,5,$$$,Scotch-like,,,Scotland,Blend,cask finish johnnie rye walker
+Jura 10yo Origin,8.03,0.38,16,$$$,SingleMalt-like,I,I,Scotland,Malt,10 jura origin
+Jura 12yo Elixir,8.31,0.46,10,$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 elixir jura
+Jura 16yo,7.95,0.52,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 jura
+Jura 16yo Diurach's Own,8.48,0.39,13,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 diurach jura own
+Jura 21yo,8.24,0.74,5,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,21 jura
+Jura 21yo 200th Anniversary,8.14,0.82,3,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,200th 21 anniversary jura
+Jura Brooklyn,8.77,0.21,6,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,brooklyn jura
+Jura Prophecy,8.65,0.31,15,$$$$,SingleMalt-like,J,J,Scotland,Malt,jura prophecy
+Jura Superstition,8.25,0.46,19,$$$,SingleMalt-like,I,I,Scotland,Malt,jura superstition
+Jura Turas Mara,7.89,0.59,5,$$,SingleMalt-like,ABC,C,Scotland,Malt,jura mara turas
+Kakubin (Suntory Whisky),8.15,0.85,4,$$,Scotch-like,,,Japan,Blend,kakubin suntory
+Karuizawa 1990 Sherry Butt,9.01,0.28,4,$$$$$+,SingleMalt-like,ABC,A,Japan,Malt,1990 butt karuizawa sherry
+Karuizawa Asama Vintages 1999-2000,8.65,0.44,9,$$$$$+,SingleMalt-like,ABC,C,Japan,Malt,1999 2000 asama karuizawa vintages
+Kavalan Concertmaster Port Cask,8.28,0.54,18,$$$$,SingleMalt-like,ABC,C,Taiwan,Malt,cask concertmaster kavalan port
+Kavalan Distillery Reserve Peaty Cask,8.77,0.35,4,$$$$$+,SingleMalt-like,I,I,Taiwan,Malt,cask distillery kavalan peaty reserve
+Kavalan ex-Bourbon Oak,9.08,0.22,3,$$$$,SingleMalt-like,EF,E,Taiwan,Malt,ex kavalan oak
+Kavalan King Car Conductor,8.42,0.37,8,$$$$,SingleMalt-like,GH,G,Taiwan,Malt,car conductor kavalan king
+Kavalan Podium,8.81,0.36,7,$$$$,SingleMalt-like,GH,G,Taiwan,Malt,kavalan podium
+Kavalan Sherry Oak,8.73,0.27,5,$$$$$,SingleMalt-like,ABC,B,Taiwan,Malt,kavalan oak sherry
+Kavalan Single Malt Whisky,8.42,0.5,17,$$$$,SingleMalt-like,GH,G,Taiwan,Malt,kavalan
+Kavalan Solist Ex-Bourbon,8.87,0.24,17,$$$$$,SingleMalt-like,EF,E,Taiwan,Malt,ex kavalan solist
+Kavalan Solist Fino Sherry Cask,9.0,0.35,10,$$$$$+,SingleMalt-like,ABC,A,Taiwan,Malt,cask fino kavalan sherry solist
+Kavalan Solist Port Cask,9.0,0.43,3,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,cask kavalan port solist
+Kavalan Solist Sherry Cask,9.12,0.35,14,$$$$$,SingleMalt-like,ABC,A,Taiwan,Malt,cask kavalan sherry solist
+Kavalan Solist Vinho Barrique,8.98,0.34,13,$$$$$,SingleMalt-like,ABC,A,Taiwan,Malt,barrique kavalan solist vinho
+Kilbeggan 8yo Single Grain (Greenore),8.13,0.38,11,$$,Scotch-like,,,Ireland,Grain,8 grain greenore kilbeggan single
+Kilbeggan Irish Reserve Malt Whiskey,7.98,0.52,6,$$,SingleMalt-like,GH,G,Ireland,Malt,kilbeggan malt reserve
+Kilchoman 100% Islay (all editions),8.76,0.25,15,$$$$,SingleMalt-like,J,J,Scotland,Malt,100% all editions islay kilchoman
+Kilchoman 2007 Vintage,8.95,0.29,9,$$$$,SingleMalt-like,J,J,Scotland,Malt,2007 kilchoman vintage
+Kilchoman 2008 Vintage,9.02,0.22,5,$$$$,SingleMalt-like,J,J,Scotland,Malt,2008 kilchoman vintage
+Kilchoman Bourbon Single Cask,8.95,0.24,12,$$$$,SingleMalt-like,I,I,Scotland,Malt,cask kilchoman single
+Kilchoman Coull Point,8.82,0.14,6,$$$$$,SingleMalt-like,I,I,Scotland,Malt,coull kilchoman point
+Kilchoman Loch Gorm,8.87,0.26,19,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,gorm kilchoman loch
+Kilchoman Machir Bay (all vintages),8.77,0.23,20,$$$$,SingleMalt-like,J,J,Scotland,Malt,all bay kilchoman machir vintages
+Kilchoman Madeira Cask Matured,8.6,0.34,7,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,cask kilchoman madeira matured
+Kilchoman Original Cask Strength,8.93,0.6,7,$$$$,SingleMalt-like,J,J,Scotland,Malt,cask kilchoman original strength
+Kilchoman Port Cask Matured,9.07,0.19,5,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,cask kilchoman matured port
+Kilchoman PX Sherry Finish,8.88,0.19,7,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,finish kilchoman px sherry
+Kilchoman Sanaig,8.73,0.27,12,$$$$,SingleMalt-like,I,I,Scotland,Malt,kilchoman sanaig
+Kilchoman Sherry Single Cask,8.63,0.55,13,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,cask kilchoman sherry single
+Kilchoman Spring 2011 Release,8.74,0.24,8,$$$$,SingleMalt-like,J,J,Scotland,Malt,2011 kilchoman release spring
+Kilchoman Winter 2010 Release,8.54,0.15,4,$$$$,SingleMalt-like,J,J,Scotland,Malt,2010 kilchoman release winter
+Kilkerran 12yo,8.92,0.19,11,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 kilkerran
+Kilkerran Work in Progress,8.57,0.32,14,$$$$,SingleMalt-like,GH,G,Scotland,Malt,in kilkerran progress work
+Kilkerran Work in Progress Bourbon Wood,8.77,0.42,10,$$$$,SingleMalt-like,GH,G,Scotland,Malt,in kilkerran progress wood work
+Kilkerran Work in Progress Sherry Wood,8.58,0.31,9,$$$$,SingleMalt-like,EF,E,Scotland,Malt,in kilkerran progress sherry wood work
+Kininvie 17yo (all batches),8.83,0.33,9,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,17 all batches kininvie
+Kininvie 23yo (all batches),8.57,0.34,8,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,23 all batches kininvie
+Kirin 18yo (Fuji Sanroku),8.94,0.56,3,$$$$$+,SingleMalt-like,GH,G,Japan,Malt,18 fuji kirin sanroku
+Kirin 50% Blend (Fuji Gotemba),8.35,0.49,3,$$$$,Scotch-like,,,Japan,Blend,50% blend fuji gotemba kirin
+Knappogue Castle 12yo,8.5,0.4,12,$$$,SingleMalt-like,GH,G,Ireland,Malt,12 castle knappogue
+Knappogue Castle 14yo Twin Wood,8.1,0.73,4,$$$$,SingleMalt-like,EF,E,Ireland,Malt,14 castle knappogue twin wood
+Knappogue Castle 16yo Twin Wood,8.78,0.49,5,$$$$,SingleMalt-like,ABC,C,Ireland,Malt,16 castle knappogue twin wood
+Knappogue Castle Vintage,8.08,0.8,5,$$$,SingleMalt-like,GH,H,Ireland,Malt,castle knappogue vintage
+Knob Creek Single Barrel Reserve Bourbon,8.75,0.29,11,$$$,Bourbon-like,,,USA,Bourbon,barrel creek knob reserve single
+Knob Creek Small Batch 9yo Bourbon,8.61,0.4,21,$$,Bourbon-like,,,USA,Bourbon,9 batch creek knob small
+Knob Creek Small Batch Straight Rye Whiskey,8.54,0.38,16,$$$,Rye-like,,,USA,Rye,batch creek knob rye small straight
+Knockando 12yo (All Vintages),7.94,0.42,12,$$,SingleMalt-like,GH,G,Scotland,Malt,12 all knockando vintages
+Koval Single Barrel Bourbon,8.67,0.33,7,$$$,Bourbon-like,,,USA,Bourbon,barrel koval single
+Koval Single Barrel Four Grain,8.54,0.19,5,$$$$,Bourbon-like,,,USA,Grain,barrel four grain koval single
+Koval Single Barrel Millet Whiskey,8.17,0.34,4,$$$,Bourbon-like,,,USA,Grain,barrel koval millet single
+Koval Single Barrel Rye,8.08,0.31,5,$$$,Rye-like,,,USA,Rye,barrel koval rye single
+Lagavulin 12yo Cask Strength,9.12,0.17,19,$$$$$,SingleMalt-like,J,J,Scotland,Malt,12 cask lagavulin strength
+Lagavulin 16yo,9.23,0.23,25,$$$$,SingleMalt-like,J,J,Scotland,Malt,16 lagavulin
+Lagavulin 8yo,8.85,0.26,15,$$$$,SingleMalt-like,J,J,Scotland,Malt,8 lagavulin
+Lagavulin Distiller's Edition (All Vintages),9.04,0.23,20,$$$$$,SingleMalt-like,J,J,Scotland,Malt,all distiller edition lagavulin vintages
+Laphroaig 10yo,8.86,0.25,20,$$$,SingleMalt-like,J,J,Scotland,Malt,10 laphroaig
+Laphroaig 10yo Cask Strength (all batches),8.96,0.34,19,$$$$,SingleMalt-like,J,J,Scotland,Malt,10 all batches cask laphroaig strength
+Laphroaig 15yo (200th Anniversary),8.8,0.29,15,$$$$,SingleMalt-like,J,J,Scotland,Malt,15 200th anniversary laphroaig
+Laphroaig 18yo,9.03,0.26,18,$$$$$,SingleMalt-like,J,J,Scotland,Malt,18 laphroaig
+Laphroaig 21yo,9.22,0.24,9,$$$$$+,SingleMalt-like,J,J,Scotland,Malt,21 laphroaig
+Laphroaig 25yo,9.16,0.3,15,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25 laphroaig
+Laphroaig An Cuan Mor,8.87,0.14,11,$$$$,SingleMalt-like,J,J,Scotland,Malt,an cuan laphroaig mor
+Laphroaig Cairdeas 2013 Port Wood,8.84,0.46,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,2013 cairdeas laphroaig port wood
+Laphroaig Cairdeas 2014 Amontillado,8.96,0.22,9,$$$$,SingleMalt-like,J,J,Scotland,Malt,2014 amontillado cairdeas laphroaig
+Laphroaig Cairdeas 2015,9.17,0.16,7,$$$$,SingleMalt-like,J,J,Scotland,Malt,2015 cairdeas laphroaig
+Laphroaig Cairdeas 2016 Madeira,8.85,0.45,10,$$$$,SingleMalt-like,J,J,Scotland,Malt,cairdeas laphroaig madeira
+Laphroaig Lore,8.86,0.3,13,$$$$$,SingleMalt-like,J,J,Scotland,Malt,laphroaig lore
+Laphroaig PX Triple Matured,8.64,0.57,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,laphroaig matured px triple
+Laphroaig QA Cask,8.29,0.58,9,$$$,SingleMalt-like,J,J,Scotland,Malt,cask laphroaig qa
+Laphroaig Quarter Cask,9.02,0.27,21,$$$$,SingleMalt-like,J,J,Scotland,Malt,cask laphroaig quarter
+Laphroaig Select,8.29,0.37,12,$$$,SingleMalt-like,ABC,C,Scotland,Malt,laphroaig select
+Laphroaig Triple Wood,8.7,0.34,17,$$$$,SingleMalt-like,J,J,Scotland,Malt,laphroaig triplewood
+Larceny Small Batch Bourbon,8.38,0.24,10,$$,Bourbon-like,,,USA,Bourbon,batch larceny small
+Ledaig 10yo,8.34,0.37,20,$$$,SingleMalt-like,I,I,Scotland,Malt,10 ledaig
+Ledaig 18yo,8.58,0.77,7,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 ledaig
+Ledaig 42yo Old Dusgadh,9.48,0.27,3,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,42 dusgadh ledaig old
+Linkwood 12yo (F&F),8.59,0.35,6,$$$$,SingleMalt-like,GH,H,Scotland,Malt,12 ff linkwood
+Loch Lomond,7.55,0.45,10,$,SingleMalt-like,GH,H,Scotland,Malt,loch lomond
+Lohin McKinnon,7.92,0.11,3,$$$,Rye-like,,,Canada,Rye,lohin mckinnon
+Longmorn 15yo,8.83,0.36,8,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 longmorn
+Longmorn 16yo,8.74,0.33,17,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 longmorn
+Longmorn Distiller's Choice,7.98,0.32,8,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,choice distiller longmorn
+Longrow 10yo,8.58,0.4,12,$$$$,SingleMalt-like,GH,G,Scotland,Malt,10 longrow
+Longrow 10yo Tokaji Finish,7.49,1.08,6,$$$$$,SingleMalt-like,I,I,Scotland,Malt,10 finish longrow tokaji
+Longrow 18yo,9.1,0.27,10,$$$$$,SingleMalt-like,J,J,Scotland,Malt,18 longrow
+Longrow 7yo Gaja Barolo Finish,8.56,0.55,6,$$$$,SingleMalt-like,I,I,Scotland,Malt,7 barolo finish gaja longrow
+Longrow CV,8.82,0.29,15,$$$,SingleMalt-like,J,J,Scotland,Malt,cv longrow
+Longrow Peated,8.83,0.18,12,$$$,SingleMalt-like,J,J,Scotland,Malt,longrow peated
+Longrow Red 11yo Australian Shiraz,8.83,0.34,5,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,11 australian longrow red shiraz
+Longrow Red 11yo Cabernet Sauvignon,8.36,1.18,10,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,11 cabernet longrow red sauvignon
+Longrow Red 11yo Port Cask,8.71,0.37,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,11 cask longrow port red
+Longrow Red 12yo Pinot Noir Finish,8.86,0.37,6,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 finish longrow noir pinot red
+Longrow Red 14yo Burgundy Wood,8.54,0.69,5,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,14 burgundy longrow red wood
+Lot 40,8.91,0.36,20,$$,Rye-like,,,Canada,Rye,40 lot
+Lot 40 Cask Strength,9.27,0.2,3,,Rye-like,,,Canada,Rye,40 cask lot strength
+Macallan 10yo Fine Oak,8.24,0.3,17,$$$,SingleMalt-like,EF,E,Scotland,Malt,10 fine macallan oak
+Macallan 10yo Sherry Oak,8.42,0.34,9,$$$,SingleMalt-like,ABC,A,Scotland,Malt,10 macallan oak sherry
+Macallan 10yo Sherry Oak Cask Strength,8.88,0.51,6,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,10 cask macallan oak sherry strength
+Macallan 12yo Double Cask,8.59,0.41,6,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 cask double macallan
+Macallan 12yo Fine Oak,8.48,0.4,14,$$$$,SingleMalt-like,GH,G,Scotland,Malt,12 fine macallan oak
+Macallan 12yo Sherry Oak,8.58,0.27,20,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,12 macallan oak sherry
+Macallan 15yo Fine Oak,8.39,0.52,10,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,15 fine macallan oak
+Macallan 17yo Fine Oak,8.79,0.55,9,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,17 fine macallan oak
+Macallan 1824 Amber,8.29,0.4,12,$$$,SingleMalt-like,EF,E,Scotland,Malt,1824 amber macallan
+Macallan 1824 Gold,8.29,0.27,14,$$$,SingleMalt-like,GH,G,Scotland,Malt,1824 gold macallan
+Macallan 1824 Rare Cask,8.69,0.41,10,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,1824 cask macallan rare
+Macallan 1824 Ruby,8.79,0.21,11,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,1824 macallan ruby
+Macallan 1824 Sienna,8.74,0.35,16,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,1824 macallan sienna
+Macallan 18yo Fine Oak,8.82,0.31,12,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,18 fine macallan oak
+Macallan 18yo Sherry Oak,8.89,0.34,16,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,18 macallan oak sherry
+Macallan 21yo Fine Oak,8.52,0.4,6,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,21 fine macallan oak old
+Macallan 25yo Fine Oak,8.64,0.24,3,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25 fine macallan oak
+Macallan 25yo Sherry Oak,8.85,0.47,8,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,25 macallan oak sherry
+Macallan 30yo Fine Oak,8.57,0.35,6,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,30 fine macallan oak
+Macallan Cask Strength,8.88,0.39,12,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,cask macallan strength
+Macallan Edition No. 1,8.81,0.47,8,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,1 edition macallan
+Macallan Edition No. 2,8.81,0.24,8,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,2 edition macallan
+Macallan Reflexion,8.65,0.33,3,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,macallan reflexion
+Macallan Select Oak,8.28,0.37,10,$$$,SingleMalt-like,ABC,C,Scotland,Malt,macallan oak select
+Macallan Whisky Maker's Edition,8.56,0.35,12,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,edition macallan maker
+Mackinlay 'Shackleton' Rare Old Highland Malt Whisky,8.8,0.36,17,$$$$$,SingleMalt-like,GH,H,Scotland,Malt,hackleton' highland mackinlay malt old rare
+Mackmyra Brukswhisky,8.43,0.62,9,$$$,SingleMalt-like,GH,H,Sweden,Malt,bruks mackma
+Mackmyra Midnattssol,8.14,0.71,5,$$$$,SingleMalt-like,GH,H,Sweden,Malt,mackma midnattssol
+Mackmyra Midvinter,8.52,0.55,3,$$$,SingleMalt-like,ABC,C,Sweden,Malt,mackma midvinter
+Mackmyra Moment Gld,8.83,0.43,4,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,gld mackma moment
+Mackmyra Moment Jord,8.56,0.62,3,$$$$,SingleMalt-like,EF,E,Sweden,Malt,jord mackma moment
+Mackmyra Moment Klla,8.46,0.32,3,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,klla mackma moment
+Mackmyra Moment Rimfrost,8.76,0.35,3,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,mackma moment rimfrost
+Mackmyra Moment Solsken,8.47,0.55,3,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,mackma moment solsken
+Mackmyra Moment Urberg,8.81,0.24,3,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,mackma moment urberg
+Mackmyra Preludium 03,8.58,0.87,5,$$$$$,SingleMalt-like,GH,H,Sweden,Malt,03 mackma preludium
+Mackmyra Reserve Single Cask (various casks),9.0,0.5,7,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,cask casks mackma reserve single various
+Mackmyra Special 01,7.57,0.46,3,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,01 mackma special
+Mackmyra Special 02,8.3,0.74,3,$$$$$,SingleMalt-like,GH,H,Sweden,Malt,02 mackma special
+Mackmyra Special 03,8.69,0.28,7,$$$$$,SingleMalt-like,EF,E,Sweden,Malt,03 mackma special
+Mackmyra Special 04,8.75,0.36,8,$$$$,SingleMalt-like,EF,E,Sweden,Malt,04 mackma special
+Mackmyra Special 05,8.5,0.38,7,$$$$,SingleMalt-like,EF,E,Sweden,Malt,05 mackma special
+Mackmyra Special 07,8.49,0.54,7,$$$$,SingleMalt-like,GH,H,Sweden,Malt,07 mackma special
+Mackmyra Special 08,8.36,0.31,3,$$$$,SingleMalt-like,EF,E,Sweden,Malt,08 mackma special
+Mackmyra Special 09,8.62,0.24,4,$$$$,SingleMalt-like,EF,E,Sweden,Malt,09 mackma special
+Mackmyra Special 10,8.44,0.49,3,$$$$,SingleMalt-like,EF,E,Sweden,Malt,10 mackma special
+Mackmyra Svensk Ek,8.34,0.22,3,$$$$,SingleMalt-like,GH,H,Sweden,Malt,ek mackma svensk
+Mackmyra Svensk Rk,8.71,0.14,4,$$$$,SingleMalt-like,I,I,Sweden,Malt,mackma rk svensk
+Mackmyra The First Edition (Den Frsta Utgvan),8.64,0.37,17,$$$,SingleMalt-like,GH,H,Sweden,Malt,den edition first frsta mackma the utgvan
+Maker's Mark,8.23,0.43,22,$$,Bourbon-like,,,USA,Bourbon,maker mark
+Maker's Mark 46,8.76,0.32,15,$$$,Bourbon-like,,,USA,Bourbon,46 maker mark
+Maker's Mark Cask Strength,8.71,0.38,9,$$$$,Bourbon-like,,,USA,Bourbon,cask maker mark strength
+Mannochmore 12yo (F&F),8.23,0.17,4,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 ff mannochmore
+Masterson's Straight Barley 10yo,8.58,0.61,7,$$$$,Rye-like,,,Canada,Barley,10 barley masterson straight
+Masterson's Straight Rye 10yo,8.89,0.42,17,$$$$,Rye-like,,,Canada,Rye,10 masterson rye straight
+Masterson's Straight Wheat 12yo,8.63,0.23,9,$$$$,Rye-like,,,Canada,Wheat,12 masterson straight wheat
+McClelland's Highland Single Malt,7.09,0.47,7,$$,SingleMalt-like,GH,G,Scotland,Malt,highland mcclelland
+McClelland's Islay Single Malt,7.93,0.66,8,$$,SingleMalt-like,J,J,Scotland,Malt,islay mcclelland
+McClelland's Lowland Single Malt,7.03,0.54,4,$$,SingleMalt-like,GH,H,Scotland,Malt,lowland mcclelland
+McClelland's Speyside Single Malt,6.71,0.48,6,$$,SingleMalt-like,EF,F,Scotland,Malt,mcclelland speyside
+Mellow Corn BiB,7.8,0.47,11,$,Bourbon-like,,,USA,Bourbon,bib corn mellow
+Michter's 10yo Single Barrel Bourbon,8.82,0.38,9,$$$$$+,Bourbon-like,,,USA,Bourbon,10 barrel michter single
+Michter's 10yo Single Barrel Rye,8.78,0.33,5,$$$$$+,Rye-like,,,USA,Rye,10 barrel michter rye single
+Michter's 20yo Single Barrel Bourbon,8.95,0.38,4,$$$$$+,Bourbon-like,,,USA,Bourbon,20 barrel michter single
+Michter's Barrel Strength Rye,8.97,0.23,4,$$$$,Rye-like,,,USA,Rye,barrel michter rye strength
+Michter's Single Barrel Straight Rye,8.68,0.45,10,$$$,Rye-like,,,USA,Rye,barrel michter rye single straight
+Michter's Small Batch Bourbon,8.5,0.31,11,$$$,Bourbon-like,,,USA,Bourbon,batch michter small
+Michter's Sour Mash,8.36,0.08,3,$$$,Bourbon-like,,,USA,Bourbon,mash michter sour
+Michter's Toasted Barrel,8.41,0.15,5,$$$$,Bourbon-like,,,USA,Bourbon,barrel michter toasted
+Midleton Barry Crockett Legacy,9.07,0.24,9,$$$$$,SingleMalt-like,GH,G,Ireland,Blend,barry crockett legacy midleton
+Midleton Dair Ghaelach,9.09,0.3,7,$$$$$,SingleMalt-like,EF,E,Ireland,Blend,dair ghaelach midleton
+Midleton Very Rare (all vintages),8.81,0.51,11,$$$$$,SingleMalt-like,EF,E,Ireland,Blend,midleton rare
+Millstone 100 Rye,8.69,0.33,9,$$$$,Rye-like,,,Netherlands,Rye,100 millstone rye
+Millstone 12yo Sherry Cask,8.95,0.25,7,$$$$,SingleMalt-like,ABC,C,Netherlands,Malt,12 cask millstone sherry
+Millstone 8yo French Oak,7.95,0.67,4,$$$$,SingleMalt-like,EF,E,Netherlands,Malt,8 french millstone oak
+Miltonduff 10yo (F&F),8.08,0.45,4,$$$,SingleMalt-like,EF,E,Scotland,Malt,10 ff miltonduff
+Monkey Shoulder,8.31,0.4,16,$$,SingleMalt-like,EF,E,Scotland,Malt,monkey shoulder
+Mortlach 15yo (Gordon & MacPhail),8.67,0.35,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 gordon macphail mortlach
+Mortlach 16yo (F&F),8.68,0.29,9,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,16 ff mortlach
+Mortlach 18yo,8.71,0.6,10,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,18 mortlach
+Mortlach Rare Old,8.42,0.46,12,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,mortlach rare
+Mortlach Special Strength,8.8,0.58,6,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,mortlach special strength
+Nikka All Malt,8.45,0.16,8,$$,SingleMalt-like,EF,E,Japan,Malt,all malt nikka
+Nikka Coffey Grain,8.59,0.49,15,$$$$,Scotch-like,,,Japan,Grain,coffey grain nikka
+Nikka Coffey Malt,8.8,0.44,9,$$$$,SingleMalt-like,EF,E,Japan,Malt,coffey malt nikka
+Nikka From the Barrel,8.82,0.39,21,$$$,SingleMalt-like,EF,F,Japan,Blend,barrel from nikka the
+Nikka Gold & Gold,8.17,0.34,7,$$$,SingleMalt-like,GH,G,Japan,Malt,gold gold nikka
+Nikka Miyagikyo 10yo,8.45,0.33,7,$$$$,SingleMalt-like,I,I,Japan,Malt,10 miyagik nikka
+Nikka Miyagikyo 12yo,8.56,0.33,7,$$$$,SingleMalt-like,I,I,Japan,Malt,12 miyagik nikka
+Nikka Miyagikyo 15yo,8.67,0.29,11,$$$$$,SingleMalt-like,I,I,Japan,Malt,15 miyagik nikka
+Nikka Miyagikyo NAS,8.47,0.37,5,$$$$,SingleMalt-like,GH,H,Japan,Malt,miyagik nikka
+Nikka Pure Malt Black,8.79,0.22,13,$$$,SingleMalt-like,I,I,Japan,Malt,black malt nikka pure
+Nikka Pure Malt Red,8.53,0.33,9,$$$,SingleMalt-like,EF,E,Japan,Malt,malt nikka pure red
+Nikka Pure Malt White,8.65,0.32,12,$$$,SingleMalt-like,I,I,Japan,Malt,malt nikka pure white
+Nikka Single Cask Coffey Malt 12yo,9.11,0.48,9,$$$$$,SingleMalt-like,ABC,C,Japan,Malt,12 cask coffey malt nikka single
+Nikka Super,8.0,0.46,8,$$$,SingleMalt-like,EF,E,Japan,Malt,nikka super
+Nikka Taketsuru 12yo,8.37,0.36,17,$$$$,SingleMalt-like,EF,E,Japan,Malt,12 nikka taketsuru
+Nikka Taketsuru 17yo,8.75,0.26,12,$$$$$,SingleMalt-like,EF,E,Japan,Malt,17 nikka taketsuru
+Nikka Taketsuru 21yo,8.97,0.28,16,$$$$$,SingleMalt-like,ABC,C,Japan,Malt,21 nikka taketsuru
+Nikka Taketsuru NAS,8.24,0.37,5,$$$$,SingleMalt-like,GH,G,Japan,Malt,nikka taketsuru
+Nikka Yoichi 10yo,8.68,0.27,16,$$$$,SingleMalt-like,I,I,Japan,Malt,10 ichi nikka
+Nikka Yoichi 12yo,8.76,0.2,9,$$$$$,SingleMalt-like,I,I,Japan,Malt,12 ichi nikka
+Nikka Yoichi 15yo,8.97,0.27,14,$$$$$,SingleMalt-like,I,I,Japan,Malt,15 ichi nikka
+Nikka Yoichi NAS,8.44,0.32,9,$$$$,SingleMalt-like,I,I,Japan,Malt,ichi nikka
+Oban 14yo,8.45,0.4,15,$$$$,SingleMalt-like,I,I,Scotland,Malt,14 oban
+Oban 18yo,8.73,0.18,12,$$$$$,SingleMalt-like,I,I,Scotland,Malt,18 oban
+Oban 21yo,9.04,0.25,5,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,21 oban
+Oban Distillers Edition (all vintages),8.71,0.24,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,distillers edition oban
+Oban Little Bay,8.39,0.43,10,$$$$,SingleMalt-like,I,I,Scotland,Malt,bay little oban
+Old Ballantruan Peated (Toumintoul),8.25,0.4,8,$$$$,SingleMalt-like,I,I,Scotland,Malt,ballantruan old peated toumintoul
+Old Fitzgerald BiB,7.98,0.38,4,$$$,Bourbon-like,,,USA,Bourbon,bib fitzgerald old
+Old Fitzgerald Kentucky Straight Bourbon,8.43,0.52,6,$$,Bourbon-like,,,USA,Bourbon,fitzgerald kentucky old straight
+Old Forester,8.11,0.43,11,$$,Bourbon-like,,,USA,Bourbon,forester old
+Old Forester 1897 BiB,8.11,0.6,4,$$$,Bourbon-like,,,USA,Bourbon,1897 bib forester old
+Old Forester 1920 Prohibition Style,8.87,0.21,3,$$$$,Bourbon-like,,,USA,Bourbon,1920 forester old prohibition style
+Old Forester Birthday (2012-2016),8.75,0.15,9,$$$$$,Bourbon-like,,,USA,Bourbon,2012 2016 birthday forester old
+Old Forester Signature (100 Proof),8.36,0.4,8,$$,Bourbon-like,,,USA,Bourbon,100 forester old proof signature
+Old Grand-Dad Bourbon (80/86 Proof),8.04,0.51,10,$$,Bourbon-like,,,USA,Bourbon,80/86 dad grand old proof
+Old Grand-Dad Bourbon 100 BiB,8.37,0.54,9,$$,Bourbon-like,,,USA,Bourbon,100 bib dad grand old
+Old Grand-Dad Bourbon 114,8.63,0.24,9,$$,Bourbon-like,,,USA,Bourbon,114 dad grand old
+Old Pulteney 12yo,8.42,0.27,23,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 old pulteney
+Old Pulteney 17yo,8.83,0.27,17,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,17 old pulteney
+Old Pulteney 21yo,8.77,0.48,15,$$$$$,SingleMalt-like,GH,H,Scotland,Malt,21 old pulteney
+Old Pulteney Navigator,8.3,0.4,10,$$$,SingleMalt-like,EF,E,Scotland,Malt,navigator old pulteney
+Old Rip Van Winkle 10yo,9.03,0.21,8,$$$$$+,Bourbon-like,,,USA,Bourbon,10 old rip van winkle
+Old Weller Antique 107,8.68,0.41,10,$$,Bourbon-like,,,USA,Bourbon,107 antique old weller
+Orphan Barrel Barterhouse Bourbon 20yo,8.72,0.4,12,$$$$$,Bourbon-like,,,USA,Bourbon,20 barrel barterhouse orphan
+P&M Blended Whisky,7.46,0.97,5,$,Scotch-like,,,France,Blend,blended pm
+Pappy Van Winkle Family Reserve Bourbon 15yo,9.24,0.24,10,$$$$$+,Bourbon-like,,,USA,Bourbon,15 family pappy reserve van winkle
+Pappy Van Winkle Family Reserve Bourbon 20yo,9.25,0.35,12,$$$$$+,Bourbon-like,,,USA,Bourbon,20 family pappy reserve van winkle
+Pappy Van Winkle Family Reserve Bourbon 23yo,8.75,0.52,4,$$$$$+,Bourbon-like,,,USA,Bourbon,23 family pappy reserve van winkle
+Parkers Heritage 10th 24yo Kentucky Straight Bourbon,8.65,0.96,3,$$$$$+,Bourbon-like,,,USA,Bourbon,10th 24 heritage kentucky parkers straight
+Parkers Heritage 2nd 27yo Kentucky Straight Boubon,9.28,0.37,3,$$$$$+,Bourbon-like,,,USA,Bourbon,27 2nd boubon heritage kentucky parkers straight
+Parkers Heritage 4th 10yo Wheated Mash Bill Bourbon,9.09,0.22,5,$$$$$+,Bourbon-like,,,USA,Bourbon,10 4th bill heritage mash parkers wheated
+Parkers Heritage 5th 10yo Cognac Barrel Finished,9.01,0.3,8,$$$$$+,Bourbon-like,,,USA,Bourbon,10 5th barrel cognac finished heritage parkers
+Parkers Heritage 6th Blend of Mashbills,9.05,0.12,6,$$$$$+,Bourbon-like,,,USA,Bourbon,6th blend heritage mashbills of parkers
+Parkers Heritage 7th 10yo Promise of Hope,9.15,0.18,7,$$$$$+,Bourbon-like,,,USA,Bourbon,10 7th heritage hope of parkers promise
+Parkers Heritage 8th 13yo Wheat Whiskey,8.77,0.54,8,$$$$$+,Bourbon-like,,,USA,Bourbon,13 8th heritage parkers wheat
+Parkers Heritage 9th 8yo Malt Whiskey,8.41,0.54,5,$$$$$,Bourbon-like,,,USA,Bourbon,8 9th heritage malt parkers
+Paul John Bold,8.81,0.23,4,$$$,SingleMalt-like,I,I,India,Malt,bold john paul
+Paul John Brilliance,8.51,0.42,6,$$$,SingleMalt-like,EF,E,India,Malt,brilliance john paul
+Paul John Classic Select Cask,8.59,0.4,6,$$$$,SingleMalt-like,EF,E,India,Malt,cask classic john paul select
+Paul John Edited,8.41,0.58,6,$$$,SingleMalt-like,I,I,India,Malt,edited john paul
+Paul John Peated Select Cask,8.76,0.28,8,$$$$,SingleMalt-like,I,I,India,Malt,cask john paul peated select
+Paul John Single Cask,8.9,0.35,5,$$$$,SingleMalt-like,EF,E,India,Malt,cask john paul single
+Penderyn Aur Cymru,7.73,0.58,8,$$$$,SingleMalt-like,EF,E,Wales,Malt,aur cymru penderyn
+Penderyn Legend,7.49,0.87,4,$$$,SingleMalt-like,ABC,B,Wales,Malt,legend penderyn
+Penderyn Madeira,7.91,0.96,13,$$$$,SingleMalt-like,ABC,B,Wales,Malt,madeira penderyn
+Penderyn Peated,8.3,0.57,9,$$$$,SingleMalt-like,I,I,Wales,Malt,peated penderyn
+Penderyn Portwood,8.61,0.39,5,$$$,SingleMalt-like,ABC,C,Wales,Malt,penderyn portwood
+Penderyn Sherrywood,7.73,0.6,9,$$$$,SingleMalt-like,ABC,B,Wales,Malt,penderyn sherrywood
+Pendleton (Let'er Buck),8.01,0.49,14,$$,Rye-like,,,Canada,Blend,buck let'er pendleton
+Pendleton 1910,8.34,0.49,8,$$,Rye-like,,,Canada,Blend,1910 pendleton
+Pike Creek 10yo Port-finished,8.28,0.52,12,$$,Rye-like,,,Canada,Blend,10 creek finished pike port
+Pike Creek 10yo Rum-finished,8.66,0.24,3,$$,Rye-like,,,Canada,Blend,10 creek finished pike rum
+Pikesville Straight Rye,8.73,0.48,13,$$$$,Rye-like,,,USA,Rye,pikesville rye straight
+Port Charlotte 10yo Heavily Peated,8.65,0.27,4,$$$$,SingleMalt-like,I,I,Scotland,Malt,10 charlotte heavily peated port
+Port Charlotte An Turas Mor,8.71,0.28,10,$$$$,SingleMalt-like,I,I,Scotland,Malt,an charlotte mor port turas
+Port Charlotte Islay Barley Heavily Peated,8.89,0.17,3,$$$$,SingleMalt-like,J,J,Scotland,Malt,barley charlotte heavily islay peated port
+Port Charlotte PC10 (Second Edition),8.88,0.17,3,$$$$,SingleMalt-like,I,I,Scotland,Malt,charlotte edition pc10 port second
+Port Charlotte PC10 Tro Na Linntean,8.97,0.46,9,$$$$$,SingleMalt-like,I,I,Scotland,Malt,charlotte linntean na pc10 port tro
+Port Charlotte PC11 Eorna Na H-Alba,8.91,0.27,4,$$$$$,SingleMalt-like,I,I,Scotland,Malt,alba charlotte eorna h na pc11 port
+Port Charlotte PC12 Oileanach Furachail,8.67,0.61,5,$$$$$,SingleMalt-like,I,I,Scotland,Malt,charlotte furachail oileanach pc12 port
+Port Charlotte Scottish Barley Heavily Peated,8.76,0.26,15,$$$$,SingleMalt-like,I,I,Scotland,Malt,barley charlotte heavily peated port scottish
+Port Charlotte The Peat Project,8.5,0.4,7,$$$$,SingleMalt-like,J,J,Scotland,Malt,charlotte peat port project the
+Potter's Special Old,8.41,0.42,4,$,Rye-like,,,Canada,Blend,old potter special
+Powers 12yo John's Lane,8.82,0.39,14,$$$$,Scotch-like,,,Ireland,Blend,12 john lane powers
+Powers 12yo Reserve,8.62,0.25,6,$$$,Scotch-like,,,Ireland,Blend,12 powers reserve
+Powers Gold Label,7.99,0.52,11,$$,Scotch-like,,,Ireland,Blend,gold powers
+Powers Signature Release,8.22,0.52,4,$$$,Scotch-like,,,Ireland,Blend,powers release signature
+Prichards Rye,8.44,0.32,3,$$$$,Rye-like,,,USA,Rye,prichards rye
+Proof Whisky,7.22,0.81,9,$$,Rye-like,,,Canada,Blend,proof
+Rebel Yell Kentucky Bourbon,7.59,0.59,11,$,Bourbon-like,,,USA,Bourbon,rebel yell
+Redbreast 12yo,8.75,0.41,21,$$$,SingleMalt-like,EF,E,Ireland,Malt,12 redbreast
+Redbreast 12yo Cask Strength,9.07,0.35,17,$$$$,SingleMalt-like,EF,E,Ireland,Malt,12 cask redbreast strength
+Redbreast 15yo,8.74,0.26,13,$$$$,SingleMalt-like,EF,E,Ireland,Malt,15 redbreast
+Redbreast 21yo,9.16,0.32,14,$$$$$,SingleMalt-like,ABC,C,Ireland,Malt,21 redbreast
+Redbreast All Sherry Single Cask 1999,8.42,0.91,4,$$$$$,SingleMalt-like,ABC,A,Ireland,Malt,1999 all cask redbreast sherry single
+Redbreast Lustau Edition,8.88,0.33,6,$$$$,SingleMalt-like,ABC,C,Ireland,Malt,edition lustau redbreast
+Redbreast Mano a Lmh,8.67,0.37,4,$$$,SingleMalt-like,ABC,C,Ireland,Malt,a lmh mano redbreast
+Redemption High Rye Bourbon,7.82,0.42,4,$$,Bourbon-like,,,USA,Bourbon,redemption rye
+Rich and Rare,7.7,0.6,5,$,Rye-like,,,Canada,Blend,rare rich
+Rich and Rare Reserve,7.96,0.29,6,$,Rye-like,,,Canada,Blend,and rare reserve rich
+Rittenhouse Rye 100 Proof,8.58,0.24,15,$$,Rye-like,,,USA,Rye,100 proof rittenhouse rye
+Royal Brackla 12yo,8.26,0.47,12,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 brackla royal
+Royal Brackla 16yo,8.76,0.23,5,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,16 brackla royal
+Royal Brackla 21yo,8.8,0.18,4,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,21 brackla royal
+Royal Canadian Small Batch,8.04,0.35,12,$$,Rye-like,,,Canada,Blend,batch canadian royal small
+Royal Lochnagar 12yo,7.92,0.3,11,$$,SingleMalt-like,ABC,C,Scotland,Malt,12 lochnagar royal
+Russell's Reserve 6yo Rye,8.7,0.28,7,$$$,Rye-like,,,USA,Rye,6 reserve russell rye
+Russell's Reserve Single Barrel,8.82,0.47,8,$$$$,Bourbon-like,,,USA,Bourbon,barrel reserve russell single
+Russell's Reserve Small Batch 10yo Bourbon,8.54,0.29,14,$$,Bourbon-like,,,USA,Bourbon,10 batch reserve russell small
+Sazerac 18yo,8.94,0.35,13,$$$$$+,Rye-like,,,USA,Rye,18 sazerac
+Sazerac Straight Rye,8.59,0.46,13,$$,Rye-like,,,USA,Rye,rye sazerac straight
+Scapa 16yo,8.29,0.27,14,$$$$,SingleMalt-like,EF,E,Scotland,Malt,16 scapa
+Scapa Skiren,7.8,0.55,9,$$$$,SingleMalt-like,EF,E,Scotland,Malt,scapa skiren
+Schenley Golden Wedding,7.88,0.7,9,$,Rye-like,,,Canada,Blend,golden schenley wedding
+Seagram's Canadian 83,7.36,0.81,7,$,Rye-like,,,Canada,Blend,83 canadian seagram
+Seagram's VO,7.79,0.69,9,$,Rye-like,,,Canada,Blend,seagram vo
+Sheep Dip 1999 Amoroso Blended Malt,8.71,0.57,3,$$$,SingleMalt-like,ABC,C,Scotland,Malt,1999 amoroso blended dip malt sheep
+Sheep Dip Blended Malt,8.46,0.33,11,$$,SingleMalt-like,GH,H,Scotland,Malt,blended dip malt sheep
+Sheep Dip Old Hebridean 1990 Blended Malt,9.12,0.2,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,1990 blended dip hebridean malt old sheep
+Silk Tassel,7.73,0.71,4,$,Rye-like,,,Canada,Blend,silk tassel
+Smgen Primr,8.51,0.24,4,$$$$$,SingleMalt-like,ABC,C,Sweden,Malt,primr smgen
+Smgen Single Cask (2010/2011),8.91,0.15,3,$$$$$,SingleMalt-like,J,J,Sweden,Malt,2010/2011 cask single smgen
+Smooth Ambler Old Scout 10yo Bourbon,8.62,0.44,3,$$$$,Bourbon-like,,,USA,Bourbon,10 ambler old scout smooth
+Smooth Ambler Old Scout 7yo Bourbon,8.51,0.38,9,$$$,Bourbon-like,,,USA,Bourbon,7 ambler old scout smooth
+Smooth Ambler Old Scout 7yo Rye,8.56,0.36,6,$$$,Rye-like,,,USA,Rye,7 ambler old rye scout smooth
+Smooth Ambler Old Scout Single Barrel Bourbon,8.89,0.24,5,$$$$,Bourbon-like,,,USA,Bourbon,ambler barrel old scout single smooth
+Smooth Ambler Old Scout Yearling Bourbon,7.88,1.24,3,$$$,Bourbon-like,,,USA,Bourbon,ambler ling old scout smooth
+Speyburn 10yo,8.07,0.33,18,$$,SingleMalt-like,GH,H,Scotland,Malt,10 speyburn
+Speyside 10yo,7.71,0.64,4,$$$,SingleMalt-like,EF,E,Scotland,Malt,10 speyside
+Speyside 12yo,7.86,0.61,10,$$,SingleMalt-like,GH,H,Scotland,Malt,12 speyside
+Spirit of Hven Sankt Claus,8.6,0.58,3,$$$$$,SingleMalt-like,ABC,C,Sweden,Malt,claus hven of sankt spirit
+Spirit of Hven Seven Stars No. 1 Dubhe,8.29,0.41,3,$$$$$,SingleMalt-like,I,I,Sweden,Malt,1 dubhe hven of seven spirit stars
+Spirit of Hven Seven Stars No. 2 Merak,8.38,0.26,3,$$$$$,SingleMalt-like,I,I,Sweden,Malt,2 hven merak of seven spirit stars
+Spirit of Hven Seven Stars No. 3 Phecda,8.53,0.34,3,$$$$$,SingleMalt-like,I,I,Sweden,Malt,3 hven of phecda seven spirit stars
+Spirit of Hven Tychos Star,8.57,0.07,3,$$$$,SingleMalt-like,I,I,Sweden,Malt,hven of spirit star tychos
+Spirit of Hven Urania,8.56,0.46,3,$$$$$+,SingleMalt-like,GH,H,Sweden,Malt,hven of spirit urania
+Springbank 10yo,8.7,0.25,19,$$$$,SingleMalt-like,I,I,Scotland,Malt,10 springbank
+Springbank 11yo Local Barley,9.1,0.27,4,$$$$$,SingleMalt-like,I,I,Scotland,Malt,11 barley local springbank
+Springbank 12yo Cask Strength,8.87,0.25,16,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 cask springbank strength
+Springbank 12yo Green,8.8,0.27,8,$$$$,SingleMalt-like,I,I,Scotland,Malt,12 green springbank
+Springbank 13yo Green,8.89,0.21,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,13 green springbank
+Springbank 15yo,8.69,0.24,17,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 springbank
+Springbank 16yo Local Barley,9.08,0.16,10,$$$$$,SingleMalt-like,I,I,Scotland,Malt,16 barley local springbank
+Springbank 18yo,8.96,0.18,17,$$$$$,SingleMalt-like,I,I,Scotland,Malt,18 springbank
+Springbank 21yo,8.98,0.22,10,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,21 springbank
+Springbank CV,8.25,0.37,8,$$$,SingleMalt-like,I,I,Scotland,Malt,cv springbank
+St George's Chapter 6 (unpeated),8.24,0.47,10,$$$,SingleMalt-like,GH,G,England,Malt,6 chapter george st unpeated
+St George's Chapter 9 (peated),8.21,0.44,5,$$$,SingleMalt-like,I,I,England,Malt,9 chapter george peated st
+Stagg Jr (all batches),8.58,0.4,16,$$$$,Bourbon-like,,,USA,Bourbon,all batches jr stagg
+Stagg Jr (batches 1-2),8.45,0.38,13,$$$$,Bourbon-like,,,USA,Bourbon,1 2 batches jr stagg
+Stagg Jr (batches 3-6),8.9,0.19,6,$$$$,Bourbon-like,,,USA,Bourbon,3 6 batches jr stagg
+Stalk & Barrel 11+1 Canadian whisky,8.2,0.43,16,$$,Rye-like,,,Canada,Blend,11+1 barrel canadian stalk
+Stalk & Barrel Red Blend,8.41,0.49,4,$$,Rye-like,,,Canada,Blend,barrel blend red stalk
+Stalk & Barrel Rye,8.56,0.19,5,$$$,Rye-like,,,Canada,Blend,barrel rye stalk
+Stalk & Barrel Rye (Cask Strength),8.4,0.55,4,$$$,Rye-like,,,Canada,Blend,barrel cask rye stalk strength
+Stalk & Barrel Single Malt (All Casks),8.26,0.41,12,$$$,SingleMalt-like,EF,F,Canada,Malt,all barrel casks stalk
+Storas 21yo Rare Cask Reserves Blended Malt,8.61,0.04,3,$$$,SingleMalt-like,EF,E,Scotland,Blend,21 blended cask malt rare reserves storas
+Stranahan's Colorado Whiskey,8.54,0.32,13,$$$$,Bourbon-like,,,USA,Bourbon,colorado stranahan
+Strathisla 12yo,8.21,0.31,13,$$$,SingleMalt-like,EF,E,Scotland,Malt,12 strathisla
+Strathmill 12yo,8.37,0.28,3,$$$$,SingleMalt-like,GH,G,Scotland,Malt,12 strathmill
+Strathmill 25yo,8.81,0.4,4,$$$$$+,SingleMalt-like,EF,E,Scotland,Malt,25 strathmill
+Stronachie 12yo,8.17,0.29,8,$$$,SingleMalt-like,GH,H,Scotland,Malt,12 stronachie
+Stronachie 18yo,8.62,0.26,5,$$$$,SingleMalt-like,GH,H,Scotland,Malt,18 stronachie
+Sullivans Cove American Oak,8.55,0.27,4,$$$$$,SingleMalt-like,EF,E,Tasmania,Malt,american cove oak sullivans
+Sullivans Cove Bourbon Cask Strength,8.54,0.76,6,$$$$,SingleMalt-like,EF,F,Tasmania,Malt,cask cove strength sullivans
+Sullivans Cove Double Cask,8.28,0.52,13,$$$$,SingleMalt-like,EF,E,Tasmania,Malt,cask cove double sullivans
+Sullivans Cove French Oak,8.67,0.28,8,$$$$$+,SingleMalt-like,ABC,C,Tasmania,Malt,cove french oak sullivans
+Sullivans Cove Port Cask Strength,8.45,0.59,7,$$$$$,SingleMalt-like,EF,E,Tasmania,Malt,cask cove port strength sullivans
+Suntory Old Whisky,8.3,0.33,7,$$$,Scotch-like,,,Japan,Blend,old suntory
+Suntory Toki,8.21,0.46,6,$$$,Scotch-like,,,Japan,Blend,suntory toki
+Talisker 10yo,8.92,0.18,22,$$$$,SingleMalt-like,I,I,Scotland,Malt,10 talisker
+Talisker 18yo,9.18,0.2,16,$$$$$,SingleMalt-like,I,I,Scotland,Malt,18 talisker
+Talisker 25yo,8.98,0.3,15,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,25 talisker
+Talisker 30yo,9.2,0.34,13,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,30 talisker
+Talisker 57 North,8.95,0.21,16,$$$$,SingleMalt-like,I,I,Scotland,Malt,57 north talisker
+Talisker Dark Storm,8.75,0.13,8,$$$,SingleMalt-like,I,I,Scotland,Malt,dark storm talisker
+Talisker Distiller's Edition (all editions),8.94,0.26,20,$$$$,SingleMalt-like,I,I,Scotland,Malt,all distiller edition editions talisker
+Talisker Port Ruighe,8.5,0.41,15,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,port ruighe talisker
+Talisker Skye,8.44,0.25,11,$$,SingleMalt-like,GH,G,Scotland,Malt,skye talisker
+Talisker Storm,8.61,0.27,16,$$$$,SingleMalt-like,I,I,Scotland,Malt,storm talisker
+Tamdhu 10yo,8.22,0.6,15,$$$$,SingleMalt-like,GH,H,Scotland,Malt,10 tamdhu
+Tamdhu Batch Strength (both batches),8.47,0.57,6,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,batch batches both strength tamdhu
+Tamnavulin 12yo,7.68,0.84,4,$$,SingleMalt-like,GH,H,Scotland,Malt,12 tamnavulin
+T Bheag,8.47,0.29,14,$$,Scotch-like,,,Scotland,Blend,bheag t
+Teacher's Highland Cream,7.96,0.72,11,$,Scotch-like,,,Scotland,Blend,cream highland teacher
+Teaninich 10yo (F&F),8.08,0.27,3,,SingleMalt-like,EF,F,Scotland,Malt,10 ff teaninich
+Teeling Poitin,8.14,0.24,5,$$,Scotch-like,,,Ireland,Blend,poitin teeling
+Teeling Silver Reserve 21yo Sauternes Finish,8.92,0.33,10,$$$$$,SingleMalt-like,GH,H,Ireland,Malt,21 finish reserve sauternes silver teeling
+Teeling Single Grain (Wine Cask Finish),8.53,0.32,10,$$$,Scotch-like,,,Ireland,Grain,cask finish grain single teeling wine
+Teeling Single Malt,8.47,0.34,7,$$$$,SingleMalt-like,ABC,C,Ireland,Malt,teeling
+Teeling Small Batch (Rum Cask Finish),8.31,0.41,19,$$,SingleMalt-like,EF,E,Ireland,Blend,batch cask finish rum small teeling
+Teerenpeli 10yo,8.21,0.39,5,$$$$$,SingleMalt-like,GH,H,Finland,Malt,10 teerenpeli
+Teerenpeli 8yo,8.42,0.4,6,$$$$$,SingleMalt-like,EF,E,Finland,Malt,8 teerenpeli
+Teerenpeli Distillers Choice KARHI,8.73,0.12,3,$$$$,SingleMalt-like,ABC,C,Finland,Malt,choice distillers karhi teerenpeli
+Teerenpeli Distillers Choice RASI,8.55,0.34,3,$$$$,SingleMalt-like,EF,E,Finland,Malt,choice distillers rasi teerenpeli
+Teerenpeli Distiller's Choice KASKI,8.56,0.26,3,$$$$,SingleMalt-like,EF,E,Finland,Malt,choice distiller kaski teerenpeli
+Templeton Rye,8.0,0.41,7,$$$,Rye-like,,,USA,Rye,rye templeton
+The Irishman Cask Strength,8.68,0.25,4,$$$$$,Scotch-like,,,Ireland,Blend,cask man strength
+The Irishman Founders Reserve,8.32,0.38,6,$$,Scotch-like,,,Ireland,Blend,founders man reserve
+The Irishman Original Clan Irish Whiskey,8.16,0.21,4,$$,Scotch-like,,,Ireland,Blend,clan man original
+The Irishman Single Malt (NAS),7.92,0.19,5,$$$,SingleMalt-like,EF,E,Ireland,Malt,man
+The Nikka 12yo Premium Blended,8.51,0.15,3,$$$$,Scotch-like,,,Japan,Blend,12 blended nikka premium
+The Quiet Man 8yo Single Malt,8.23,0.52,5,$$$,SingleMalt-like,GH,H,Ireland,Malt,8 man quiet
+The Quiet Man Traditional Irish Whiskey,7.52,1.12,6,$$,Scotch-like,,,Ireland,Blend,man quiet traditional
+Thomas H. Handy Sazerac,9.13,0.21,14,$$$$$+,Rye-like,,,USA,Rye,h. handy sazerac thomas
+Three Ships 10yo,8.42,0.38,9,$$$$,Scotch-like,,,South Africa,Blend,10 ships three
+Three Ships 5yo,8.06,0.49,9,$,Scotch-like,,,South Africa,Blend,5 ships three
+Tincup American Whiskey,8.15,0.32,7,$$,Bourbon-like,,,USA,Bourbon,american tincup
+Tobermory 10yo,8.22,0.42,20,$$$,SingleMalt-like,EF,F,Scotland,Malt,10 tobermory
+Tobermory 15yo,8.54,0.33,13,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,15 tobermory
+Tomatin 12yo,7.87,0.58,16,$$,SingleMalt-like,EF,E,Scotland,Malt,12 tomatin
+Tomatin 14yo Portwood,8.55,0.34,8,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,14 portwood tomatin
+Tomatin 15yo,8.34,0.51,7,$$$$,SingleMalt-like,EF,E,Scotland,Malt,15 tomatin
+Tomatin 18yo,8.68,0.21,9,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 tomatin
+Tomatin 40yo,8.98,0.35,3,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,40 tomatin
+Tomatin Cask Strength,8.35,0.45,10,$$$$,SingleMalt-like,GH,G,Scotland,Malt,cask strength tomatin
+Tomatin Cu Bocan,8.09,0.33,11,$$$$,SingleMalt-like,GH,H,Scotland,Malt,bocan cu tomatin
+Tomatin Cu Bocan 1989 Limited Edition,8.95,0.25,4,$$$$$+,SingleMalt-like,I,I,Scotland,Malt,1989 bocan cu edition limited tomatin
+Tomatin Cu Bocan Sherry Edition,8.36,0.29,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,bocan cu edition sherry tomatin
+Tomatin Cu Bocan Virgin Oak Edition,8.52,0.46,3,$$$$,SingleMalt-like,GH,H,Scotland,Malt,bocan cu edition oak tomatin virgin
+Tomatin Decades,8.96,0.52,8,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,tomatin
+Tomatin Legacy,8.15,0.47,10,$$,SingleMalt-like,GH,G,Scotland,Malt,legacy tomatin
+Tomintoul 10yo,7.83,0.32,14,$$$,SingleMalt-like,GH,G,Scotland,Malt,10 tomintoul
+Tomintoul 12yo Oloroso Sherry,8.22,0.57,10,$$$$,SingleMalt-like,EF,E,Scotland,Malt,12 oloroso sherry tomintoul
+Tomintoul 16yo,8.3,0.43,14,$$$,SingleMalt-like,GH,G,Scotland,Malt,16 tomintoul
+Tomintoul Peaty Tang,7.89,0.71,11,$$,SingleMalt-like,J,J,Scotland,Malt,peaty tang tomintoul
+Tormore 12yo,7.86,0.37,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,12 tormore
+Tormore 14yo,8.17,0.32,5,$$$,SingleMalt-like,GH,G,Scotland,Malt,14 tormore
+Tullamore Dew 10yo Single Malt,8.0,0.82,6,$$$,SingleMalt-like,EF,E,Ireland,Malt,10 dew tullamore
+Tullamore Dew Blended,7.81,0.38,17,$$,Scotch-like,,,Ireland,Blend,blended dew tullamore
+Tullamore Dew Blended 12yo,7.97,0.33,10,$$$,Scotch-like,,,Ireland,Blend,12 blended dew tullamore
+Tullibardine 1993 Port,8.0,0.35,5,$$$$,SingleMalt-like,ABC,B,Scotland,Malt,1993 port tullibardine
+Tullibardine 1993 Sauternes,8.2,0.32,5,$$$,SingleMalt-like,EF,E,Scotland,Malt,1993 sauternes tullibardine
+Tullibardine 20yo,8.66,0.29,4,$$$$$,SingleMalt-like,GH,G,Scotland,Malt,20 tullibardine
+Tullibardine 225 Sauternes Finish,8.31,0.38,6,$$$$,SingleMalt-like,EF,E,Scotland,Malt,225 finish sauternes tullibardine
+Tullibardine 228 Burgundy Finish,8.06,0.39,4,$$$,SingleMalt-like,EF,E,Scotland,Malt,228 burgundy finish tullibardine
+Tullibardine 25yo,8.44,0.39,6,$$$$$+,SingleMalt-like,EF,E,Ireland,Malt,25 tullibardine
+Tullibardine 500 Sherry Finish,8.25,0.29,6,$$$,SingleMalt-like,ABC,C,Scotland,Malt,500 finish sherry tullibardine
+Tullibardine Aged Oak Edition,8.04,0.44,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,aged edition oak tullibardine
+Tullibardine Sovereign,8.19,0.24,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,sovereign tullibardine
+Tullibardine Vintage 1993,8.27,0.43,10,$$$,SingleMalt-like,GH,G,Scotland,Malt,1993 tullibardine vintage
+Tyrconnell 10yo Madeira Cask Finish,8.55,0.38,10,$$$$,SingleMalt-like,EF,E,Ireland,Malt,10 cask finish madeira tconnell
+Tyrconnell 10yo Port Cask Finish,8.54,0.37,10,$$$$,SingleMalt-like,ABC,B,Ireland,Malt,10 cask finish port tconnell
+Tyrconnell 10yo Sherry Cask Finish,8.3,0.15,5,$$$$,SingleMalt-like,ABC,B,Ireland,Malt,10 cask finish sherry tconnell
+Tyrconnell Single Malt Irish Whiskey,8.14,0.39,14,$$,SingleMalt-like,GH,H,Ireland,Malt,tconnell
+Van Winkle Family Reserve Rye 13yo,8.96,0.34,8,$$$$$+,Rye-like,,,USA,Rye,13 family reserve rye van winkle
+Van Winkle Special Reserve 12yo Lot B,8.7,0.17,7,$$$$$+,Bourbon-like,,,USA,Bourbon,12 b lot reserve special van winkle
+Very Old Barton 6yo,8.45,0.37,6,$,Bourbon-like,,,USA,Bourbon,6 barton old very
+Very Old Barton 6yo BiB,8.34,0.38,3,$$,Bourbon-like,,,USA,Bourbon,6 barton bib old very
+Virginia Black,7.63,1.11,4,$$,Bourbon-like,,,USA,Bourbon,black virginia
+W.L. Weller 12yo,8.87,0.25,12,$$$$$,Bourbon-like,,,USA,Bourbon,12 w.l. weller
+W.L. Weller Special Reserve,8.43,0.4,11,$,Bourbon-like,,,USA,Bourbon,reserve special w.l. weller
+Wayne Gretzky No. 99 Red Cask,8.08,0.34,5,$$,Rye-like,,,Canada,Blend,99 cask gretzky red wayne
+Wemyss Malts Kiln Embers,8.77,0.09,3,$$$,SingleMalt-like,J,J,Scotland,Malt,embers kiln malts wemyss
+Wemyss Malts Peat Chimney,8.47,0.38,12,$$$,SingleMalt-like,I,I,Scotland,Malt,chimney malts peat wemyss
+Wemyss Malts Smooth Gentleman,8.3,0.09,3,$$$,SingleMalt-like,EF,E,Scotland,Malt,gentleman malts smooth wemyss
+Wemyss Malts The Hive,8.4,0.21,13,$$$,SingleMalt-like,GH,G,Scotland,Malt,hive malts the wemyss
+Wemyss Malts The Rockpool,8.9,0.28,3,$$$,SingleMalt-like,I,I,Scotland,Malt,malts rockpool the wemyss
+Wemyss Malts The Spice King,8.41,0.3,12,$$$,SingleMalt-like,ABC,C,Scotland,Malt,king malts spice the wemyss
+Wemyss Malts Velvet Fig,8.27,1.12,5,$$$,SingleMalt-like,ABC,A,Scotland,Malt,fig malts velvet wemyss
+West Cork Original Irish Whiskey,8.01,0.48,3,$$,Scotch-like,,,Ireland,Blend,cork original west
+Westland American Single Malt,8.57,0.35,11,$$$$,SingleMalt-like,EF,E,USA,Malt,american westland
+Westland Garryana,8.63,0.08,4,$$$$$,SingleMalt-like,GH,G,USA,Malt,garryana westland
+Westland Peated,8.63,0.56,7,$$$$,SingleMalt-like,I,I,USA,Malt,peated westland
+Westland Sherry Wood,8.37,0.53,12,$$$$,SingleMalt-like,ABC,B,USA,Malt,sherry westland wood
+Westland Winter 2016,8.49,0.7,3,$$$$,SingleMalt-like,ABC,C,USA,Malt,2016 westland winter
+Whistlepig 10yo,8.85,0.43,15,$$$$,Rye-like,,,Canada,Blend,10 whistlepig
+Whistlepig The Boss Hog,8.82,0.28,9,$$$$$,Rye-like,,,Canada,Blend,boss hog the whistlepig
+White Oak Akashi 14yo,8.84,0.53,3,$$$$$+,SingleMalt-like,ABC,C,Japan,Malt,14 akashi oak white
+White Oak Akashi 5yo,8.17,0.61,7,$$$$$,SingleMalt-like,GH,G,Japan,Malt,5 akashi oak white
+White Oak Akashi Blended,7.99,0.42,6,$$$,Scotch-like,,,Japan,Blend,akashi blended oak white
+White Oak Akashi Single Malt (NAS),7.96,0.53,6,$$$$,SingleMalt-like,GH,G,Japan,Malt,akashi oak white
+Whyte & Mackay Special Reserve,7.38,0.42,6,$,Scotch-like,,,Scotland,Blend,mackay reserve special whyte
+Wild Turkey 101 Bourbon,8.46,0.43,18,$$,Bourbon-like,,,USA,Bourbon,101 turkey wild
+Wild Turkey 101 Rye,8.46,0.3,8,$$,Rye-like,,,USA,Rye,101 rye turkey wild
+Wild Turkey 81 Bourbon,8.17,0.4,13,$,Bourbon-like,,,USA,Bourbon,81 turkey wild
+Wild Turkey 81 Rye,8.02,0.17,6,$$,Bourbon-like,,,USA,Bourbon,81 rye turkey wild
+Wild Turkey Rare Breed,8.72,0.31,15,$$$,Bourbon-like,,,USA,Bourbon,breed rare turkey wild
+Willett Family Estate 11yo Bourbon,8.87,0.22,4,$$$$$+,Bourbon-like,,,USA,Bourbon,11 estate family willett
+Willett Family Estate 13yo Bourbon,8.78,0.43,3,$$$$$+,Bourbon-like,,,USA,Bourbon,13 estate family willett
+Willett Family Estate 17yo Bourbon,8.93,0.54,3,$$$$$+,Bourbon-like,,,USA,Bourbon,17 estate family willett
+Willett Family Estate 22yo Bourbon,9.34,0.1,3,$$$$$+,Bourbon-like,,,USA,Bourbon,22 estate family willett
+Willett Family Estate 25yo Rye,8.76,0.5,3,$$$$$+,Rye-like,,,USA,Rye,25 estate family rye willett
+Willett Family Estate 2yo Rye,8.45,0.3,7,$$$,Rye-like,,,USA,Rye,2 estate family rye willett
+Willett Family Estate 3yo Rye,8.72,0.44,5,$$$,Rye-like,,,USA,Rye,3 estate family rye willett
+Willett Family Estate 4yo Rye,8.8,0.49,7,$$$,Rye-like,,,USA,Rye,4 estate family rye willett
+Willett Family Estate 6yo Rye,8.95,0.18,4,$$$$,Rye-like,,,USA,Rye,6 estate family rye willett
+Willett Family Estate 9yo Bourbon,8.61,0.32,3,$$$$,Bourbon-like,,,USA,Bourbon,9 estate family willett
+Willett Family Estate Bourbon (all ages),8.94,0.25,12,$$$$,Bourbon-like,,,USA,Bourbon,ages all estate family willett
+Willett Family Estate Rye (all ages),8.7,0.29,12,$$$$,Rye-like,,,USA,Rye,ages all estate family rye willett
+Willett Pot Still Reserve,8.63,0.51,9,$$$,Bourbon-like,,,USA,Bourbon,pot reserve still willett
+William Larue Weller,9.18,0.25,11,$$$$$+,Bourbon-like,,,USA,Bourbon,larue weller william
+Wolfburn (NAS),8.3,0.36,9,$$$,SingleMalt-like,GH,G,Scotland,Malt,wolfburn
+Woodford Reserve bourbon,8.4,0.35,18,$$,Bourbon-like,,,USA,Bourbon,reserve woodford
+Woodford Reserve Double Oaked,8.77,0.29,11,$$$$,Bourbon-like,,,USA,Bourbon,double oaked reserve woodford
+Woodford Reserve Straight Rye,8.47,0.24,8,$$,Rye-like,,,USA,Rye,reserve rye woodford
+Writers Tears Pot Still Irish Whiskey,8.49,0.33,16,$$,Scotch-like,,,Ireland,Blend,pot still tears writers
+Yamazaki 12yo,8.63,0.28,21,$$$$,SingleMalt-like,GH,G,Japan,Malt,12 yamazaki
+Yamazaki 18yo,9.14,0.21,20,$$$$$,SingleMalt-like,ABC,C,Japan,Malt,18 yamazaki
+Yamazaki Bourbon Barrel,8.79,0.23,9,$$$$$,SingleMalt-like,GH,G,Japan,Malt,barrel yamazaki
+Yamazaki Distiller's Reserve,8.67,0.26,5,$$$$,SingleMalt-like,EF,E,Japan,Malt,distiller reserve yamazaki
+Yamazaki Mizunara,8.95,0.2,8,$$$$$+,SingleMalt-like,EF,E,Japan,Malt,mizunara yamazaki
+Yamazaki NAS,8.46,0.23,6,$$$$,SingleMalt-like,GH,G,Japan,Malt,yamazaki
+Yamazaki Puncheon,8.65,0.23,10,$$$$$,SingleMalt-like,GH,G,Japan,Malt,puncheon yamazaki
+Yamazaki Sherry Cask (all vintages),9.08,0.29,11,$$$$$+,SingleMalt-like,ABC,A,Japan,Malt,all cask sherry vintages yamazaki
+Yamazakura 16yo Blended Whisky,8.08,0.52,3,$$$$$,Scotch-like,,,Japan,Blend,16 blended yamazakura
+Yamazakura Blended Whisky,6.64,1.16,3,$$$,Scotch-like,,,Japan,Blend,blended yamazakura
+Yellow Rose Straight Rye,8.31,0.53,5,$$$,Rye-like,,,USA,Rye,rose rye straight yellow
+Yellow Spot,8.78,0.27,14,$$$$,Scotch-like,,,Ireland,Blend,spot yellow
+Yellowstone 2015 Limited Edition,8.36,0.64,4,$$$$$,Bourbon-like,,,USA,Bourbon,2015 edition limited yellowstone
+Yellowstone 2016 Limited Edition,8.73,0.45,3,$$$$$,Bourbon-like,,,USA,Bourbon,2016 edition limited yellowstone
+Yellowstone Select,8.18,0.28,3,$$$,Bourbon-like,,,USA,Bourbon,select yellowstone
